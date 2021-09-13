@@ -1,0 +1,933 @@
+,entry_id,entry_name,member,member_id,prop_id,year,date,week,team1,team2,spread,team1_pick_pct,team2_pick_pct,score1,score2,winner,spread_winner,pick,result
+0,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Falcons_Eagles_1,2018,,1,Falcons,Eagles,-3.5,,,12,18,Eagles,Eagles,Eagles,CORRECT
+1,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bills_Ravens_1,2018,,1,Bills,Ravens,-5.5,,,3,47,Ravens,Ravens,Ravens,CORRECT
+2,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bengals_Colts_1,2018,,1,Bengals,Colts,-3.5,,,34,23,Bengals,Bengals,Bengals,CORRECT
+3,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Steelers_Browns_1,2018,,1,Steelers,Browns,6.5,,,21,21,,Browns,Steelers,INCORRECT
+4,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Titans_Dolphins_1,2018,,1,Titans,Dolphins,1.5,,,20,27,Dolphins,Dolphins,Dolphins,CORRECT
+5,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_49ers_Vikings_1,2018,,1,49ers,Vikings,-5.5,,,16,24,Vikings,Vikings,Vikings,CORRECT
+6,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Texans_Patriots_1,2018,,1,Texans,Patriots,-6.5,,,20,27,Patriots,Patriots,Patriots,CORRECT
+7,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Buccaneers_Saints_1,2018,,1,Buccaneers,Saints,-9.5,,,48,40,Buccaneers,Buccaneers,Buccaneers,CORRECT
+8,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jaguars_Giants_1,2018,,1,Jaguars,Giants,2.5,,,20,15,Jaguars,Jaguars,Jaguars,CORRECT
+9,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chiefs_Chargers_1,2018,,1,Chiefs,Chargers,-3.5,,,38,28,Chiefs,Chiefs,Chargers,INCORRECT
+10,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cowboys_Panthers_1,2018,,1,Cowboys,Panthers,-2.5,,,8,16,Panthers,Panthers,Panthers,CORRECT
+11,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Seahawks_Broncos_1,2018,,1,Seahawks,Broncos,-2.5,,,24,27,Broncos,Broncos,Seahawks,INCORRECT
+12,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Redskins_Cardinals_1,2018,,1,Redskins,Cardinals,-0.5,,,24,6,Redskins,Redskins,Cardinals,INCORRECT
+13,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bears_Packers_1,2018,,1,Bears,Packers,-8.5,,,23,24,Packers,Bears,Bears,CORRECT
+14,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jets_Lions_1,2018,,1,Jets,Lions,-6.5,,,48,17,Jets,Jets,Lions,INCORRECT
+15,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Rams_Raiders_1,2018,,1,Rams,Raiders,2.5,,,33,13,Rams,Rams,Rams,CORRECT
+16,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Ravens_Bengals_2,2018,,2,Ravens,Bengals,0.5,,,23,34,Bengals,Bengals,Ravens,INCORRECT
+17,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Panthers_Falcons_2,2018,,2,Panthers,Falcons,-5.5,,,24,31,Falcons,Falcons,Panthers,INCORRECT
+18,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chargers_Bills_2,2018,,2,Chargers,Bills,7.5,,,31,20,Chargers,Chargers,Bills,INCORRECT
+19,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Browns_Saints_2,2018,,2,Browns,Saints,-8.5,,,18,21,Saints,Browns,Saints,INCORRECT
+20,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Vikings_Packers_2,2018,,2,Vikings,Packers,-0.5,,,29,29,,Vikings,Vikings,CORRECT
+21,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Texans_Titans_2,2018,,2,Texans,Titans,2.5,,,17,20,Titans,Titans,Titans,CORRECT
+22,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Colts_Redskins_2,2018,,2,Colts,Redskins,-5.5,,,21,9,Colts,Colts,Redskins,INCORRECT
+23,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chiefs_Steelers_2,2018,,2,Chiefs,Steelers,-5.5,,,42,37,Chiefs,Chiefs,Steelers,INCORRECT
+24,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Dolphins_Jets_2,2018,,2,Dolphins,Jets,-2.5,,,20,12,Dolphins,Dolphins,Dolphins,CORRECT
+25,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Eagles_Buccaneers_2,2018,,2,Eagles,Buccaneers,3.5,,,21,27,Buccaneers,Buccaneers,Eagles,INCORRECT
+26,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Lions_49ers_2,2018,,2,Lions,49ers,-5.5,,,27,30,49ers,Lions,Lions,CORRECT
+27,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cardinals_Rams_2,2018,,2,Cardinals,Rams,-12.5,,,0,34,Rams,Rams,Cardinals,INCORRECT
+28,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Raiders_Broncos_2,2018,,2,Raiders,Broncos,-5.5,,,19,20,Broncos,Raiders,Raiders,CORRECT
+29,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Patriots_Jaguars_2,2018,,2,Patriots,Jaguars,2.5,,,20,31,Jaguars,Jaguars,Jaguars,CORRECT
+30,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Giants_Cowboys_2,2018,,2,Giants,Cowboys,-2.5,,,13,20,Cowboys,Cowboys,Cowboys,CORRECT
+31,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Seahawks_Bears_2,2018,,2,Seahawks,Bears,-3.5,,,17,24,Bears,Bears,Bears,CORRECT
+32,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jets_Browns_3,2018,,3,Jets,Browns,-3.5,,,17,21,Browns,Browns,Jets,INCORRECT
+33,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Saints_Falcons_3,2018,,3,Saints,Falcons,-3.5,,,43,37,Saints,Saints,Saints,CORRECT
+34,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bills_Vikings_3,2018,,3,Bills,Vikings,-16.5,,,27,6,Bills,Bills,Vikings,INCORRECT
+35,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bengals_Panthers_3,2018,,3,Bengals,Panthers,-2.5,,,21,31,Panthers,Panthers,Panthers,CORRECT
+36,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Broncos_Ravens_3,2018,,3,Broncos,Ravens,-4.5,,,14,27,Ravens,Ravens,Ravens,CORRECT
+37,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Packers_Redskins_3,2018,,3,Packers,Redskins,2.5,,,17,31,Redskins,Redskins,Redskins,CORRECT
+38,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Titans_Jaguars_3,2018,,3,Titans,Jaguars,-7.5,,,9,6,Titans,Titans,Jaguars,INCORRECT
+39,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Colts_Eagles_3,2018,,3,Colts,Eagles,-6.5,,,16,20,Eagles,Colts,Eagles,INCORRECT
+40,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_49ers_Chiefs_3,2018,,3,49ers,Chiefs,-6.5,,,27,38,Chiefs,Chiefs,49ers,INCORRECT
+41,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Raiders_Dolphins_3,2018,,3,Raiders,Dolphins,-3.5,,,20,28,Dolphins,Dolphins,Raiders,INCORRECT
+42,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Giants_Texans_3,2018,,3,Giants,Texans,-5.5,,,27,22,Giants,Giants,Texans,INCORRECT
+43,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chargers_Rams_3,2018,,3,Chargers,Rams,-6.5,,,23,35,Rams,Rams,Chargers,INCORRECT
+44,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bears_Cardinals_3,2018,,3,Bears,Cardinals,4.5,,,16,14,Bears,Cardinals,Bears,INCORRECT
+45,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cowboys_Seahawks_3,2018,,3,Cowboys,Seahawks,-2.5,,,13,24,Seahawks,Seahawks,Cowboys,INCORRECT
+46,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Patriots_Lions_3,2018,,3,Patriots,Lions,6.5,,,10,26,Lions,Lions,Patriots,INCORRECT
+47,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Steelers_Buccaneers_3,2018,,3,Steelers,Buccaneers,1.5,,,30,27,Steelers,Steelers,Buccaneers,INCORRECT
+48,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Vikings_Rams_4,2018,,4,Vikings,Rams,-6.5,,,31,38,Rams,Rams,Rams,CORRECT
+49,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bengals_Falcons_4,2018,,4,Bengals,Falcons,-5.5,,,37,36,Bengals,Bengals,Bengals,CORRECT
+50,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bills_Packers_4,2018,,4,Bills,Packers,-10.5,,,0,22,Packers,Packers,Bills,INCORRECT
+51,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Buccaneers_Bears_4,2018,,4,Buccaneers,Bears,-2.5,,,10,48,Bears,Bears,Bears,CORRECT
+52,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Lions_Cowboys_4,2018,,4,Lions,Cowboys,-2.5,,,24,26,Cowboys,Lions,Cowboys,INCORRECT
+53,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Eagles_Titans_4,2018,,4,Eagles,Titans,3.5,,,23,26,Titans,Titans,Titans,CORRECT
+54,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Texans_Colts_4,2018,,4,Texans,Colts,-0.5,,,37,34,Texans,Texans,Colts,INCORRECT
+55,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Dolphins_Patriots_4,2018,,4,Dolphins,Patriots,-6.5,,,7,38,Patriots,Patriots,Dolphins,INCORRECT
+56,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jets_Jaguars_4,2018,,4,Jets,Jaguars,-7.5,,,12,31,Jaguars,Jaguars,Jets,INCORRECT
+57,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Browns_Raiders_4,2018,,4,Browns,Raiders,-2.5,,,42,45,Raiders,Raiders,Raiders,CORRECT
+58,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Seahawks_Cardinals_4,2018,,4,Seahawks,Cardinals,3.5,,,20,17,Seahawks,Cardinals,Cardinals,CORRECT
+59,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Saints_Giants_4,2018,,4,Saints,Giants,3.5,,,33,18,Saints,Saints,Giants,INCORRECT
+60,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_49ers_Chargers_4,2018,,4,49ers,Chargers,-10.5,,,27,29,Chargers,49ers,49ers,CORRECT
+61,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Ravens_Steelers_4,2018,,4,Ravens,Steelers,-3.5,,,26,14,Ravens,Ravens,Ravens,CORRECT
+62,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chiefs_Broncos_4,2018,,4,Chiefs,Broncos,5.5,,,27,23,Chiefs,Broncos,Broncos,CORRECT
+63,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Colts_Patriots_5,2018,,5,Colts,Patriots,-10.5,,,24,38,Patriots,Patriots,Colts,INCORRECT
+64,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Falcons_Steelers_5,2018,,5,Falcons,Steelers,-3.5,,,17,41,Steelers,Steelers,Steelers,CORRECT
+65,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Titans_Bills_5,2018,,5,Titans,Bills,3.5,,,12,13,Bills,Bills,Titans,INCORRECT
+66,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Dolphins_Bengals_5,2018,,5,Dolphins,Bengals,-6.5,,,17,27,Bengals,Bengals,Dolphins,INCORRECT
+67,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Ravens_Browns_5,2018,,5,Ravens,Browns,2.5,,,9,12,Browns,Browns,Ravens,INCORRECT
+68,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Broncos_Jets_5,2018,,5,Broncos,Jets,-0.5,,,16,34,Jets,Jets,Broncos,INCORRECT
+69,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Packers_Lions_5,2018,,5,Packers,Lions,1.5,,,23,31,Lions,Lions,Lions,CORRECT
+70,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jaguars_Chiefs_5,2018,,5,Jaguars,Chiefs,-3.5,,,14,30,Chiefs,Chiefs,Jaguars,INCORRECT
+71,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Giants_Panthers_5,2018,,5,Giants,Panthers,-6.5,,,31,33,Panthers,Giants,Panthers,INCORRECT
+72,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Raiders_Chargers_5,2018,,5,Raiders,Chargers,-5.5,,,10,26,Chargers,Chargers,Raiders,INCORRECT
+73,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Rams_Seahawks_5,2018,,5,Rams,Seahawks,7.5,,,33,31,Rams,Seahawks,Seahawks,CORRECT
+74,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Vikings_Eagles_5,2018,,5,Vikings,Eagles,-3.5,,,23,21,Vikings,Vikings,Vikings,CORRECT
+75,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cardinals_49ers_5,2018,,5,Cardinals,49ers,-4.5,,,28,18,Cardinals,Cardinals,Cardinals,CORRECT
+76,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cowboys_Texans_5,2018,,5,Cowboys,Texans,-3.5,,,16,19,Texans,Cowboys,Cowboys,CORRECT
+77,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Redskins_Saints_5,2018,,5,Redskins,Saints,-6.5,,,19,43,Saints,Saints,Redskins,INCORRECT
+78,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Eagles_Giants_6,2018,,6,Eagles,Giants,2.5,,,34,13,Eagles,Eagles,Giants,INCORRECT
+79,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Steelers_Bengals_6,2018,,6,Steelers,Bengals,-2.5,,,28,21,Steelers,Steelers,Steelers,CORRECT
+80,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Panthers_Redskins_6,2018,,6,Panthers,Redskins,-1.5,,,17,23,Redskins,Redskins,Panthers,INCORRECT
+81,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Buccaneers_Falcons_6,2018,,6,Buccaneers,Falcons,-3.5,,,29,34,Falcons,Falcons,Buccaneers,INCORRECT
+82,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bills_Texans_6,2018,,6,Bills,Texans,-7.5,,,13,20,Texans,Bills,Texans,INCORRECT
+83,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chargers_Browns_6,2018,,6,Chargers,Browns,0.5,,,38,14,Chargers,Chargers,Browns,INCORRECT
+84,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Seahawks_Raiders_6,2018,,6,Seahawks,Raiders,2.5,,,27,3,Seahawks,Seahawks,Seahawks,CORRECT
+85,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bears_Dolphins_6,2018,,6,Bears,Dolphins,2.5,,,28,31,Dolphins,Dolphins,Bears,INCORRECT
+86,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cardinals_Vikings_6,2018,,6,Cardinals,Vikings,-10.5,,,17,27,Vikings,Cardinals,Cardinals,CORRECT
+87,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Colts_Jets_6,2018,,6,Colts,Jets,-2.5,,,34,42,Jets,Jets,Jets,CORRECT
+88,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Rams_Broncos_6,2018,,6,Rams,Broncos,6.5,,,23,20,Rams,Broncos,Rams,INCORRECT
+89,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jaguars_Cowboys_6,2018,,6,Jaguars,Cowboys,2.5,,,7,40,Cowboys,Cowboys,Jaguars,INCORRECT
+90,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Ravens_Titans_6,2018,,6,Ravens,Titans,2.5,,,21,0,Ravens,Ravens,Ravens,CORRECT
+91,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chiefs_Patriots_6,2018,,6,Chiefs,Patriots,-3.5,,,40,43,Patriots,Chiefs,Chiefs,CORRECT
+92,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_49ers_Packers_6,2018,,6,49ers,Packers,-9.5,,,30,33,Packers,49ers,49ers,CORRECT
+93,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Broncos_Cardinals_7,2018,,7,Broncos,Cardinals,2.5,,,45,10,Broncos,Broncos,Cardinals,INCORRECT
+94,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Titans_Chargers_7,2018,,7,Titans,Chargers,-6.5,,,19,20,Chargers,Titans,Chargers,INCORRECT
+95,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Lions_Dolphins_7,2018,,7,Lions,Dolphins,0.5,,,32,21,Lions,Lions,Lions,CORRECT
+96,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Vikings_Jets_7,2018,,7,Vikings,Jets,3.5,,,37,17,Vikings,Vikings,Jets,INCORRECT
+97,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Patriots_Bears_7,2018,,7,Patriots,Bears,3.5,,,38,31,Patriots,Patriots,Bears,INCORRECT
+98,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Texans_Jaguars_7,2018,,7,Texans,Jaguars,-4.5,,,20,7,Texans,Texans,Texans,CORRECT
+99,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Panthers_Eagles_7,2018,,7,Panthers,Eagles,-4.5,,,21,17,Panthers,Panthers,Eagles,INCORRECT
+100,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bills_Colts_7,2018,,7,Bills,Colts,-6.5,,,5,37,Colts,Colts,Colts,CORRECT
+101,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Browns_Buccaneers_7,2018,,7,Browns,Buccaneers,-3.5,,,23,26,Buccaneers,Browns,Buccaneers,INCORRECT
+102,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bengals_Chiefs_7,2018,,7,Bengals,Chiefs,-5.5,,,10,45,Chiefs,Chiefs,Chiefs,CORRECT
+103,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Saints_Ravens_7,2018,,7,Saints,Ravens,-2.5,,,24,23,Saints,Saints,Ravens,INCORRECT
+104,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cowboys_Redskins_7,2018,,7,Cowboys,Redskins,-1.5,,,17,20,Redskins,Redskins,Cowboys,INCORRECT
+105,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Rams_49ers_7,2018,,7,Rams,49ers,10.5,,,39,10,Rams,Rams,49ers,INCORRECT
+106,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Giants_Falcons_7,2018,,7,Giants,Falcons,-6.5,,,20,23,Falcons,Giants,Giants,CORRECT
+107,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Dolphins_Texans_8,2018,,8,Dolphins,Texans,-7.5,,,23,42,Texans,Texans,Dolphins,INCORRECT
+108,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Eagles_Jaguars_8,2018,,8,Eagles,Jaguars,2.5,,,24,18,Eagles,Eagles,Eagles,CORRECT
+109,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Browns_Steelers_8,2018,,8,Browns,Steelers,-8.5,,,18,33,Steelers,Steelers,Steelers,CORRECT
+110,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Broncos_Chiefs_8,2018,,8,Broncos,Chiefs,-10.5,,,23,30,Chiefs,Broncos,Broncos,CORRECT
+111,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jets_Bears_8,2018,,8,Jets,Bears,-6.5,,,10,24,Bears,Bears,Bears,CORRECT
+112,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Redskins_Giants_8,2018,,8,Redskins,Giants,0.5,,,20,13,Redskins,Redskins,Redskins,CORRECT
+113,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Buccaneers_Bengals_8,2018,,8,Buccaneers,Bengals,-4.5,,,34,37,Bengals,Buccaneers,Buccaneers,CORRECT
+114,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Ravens_Panthers_8,2018,,8,Ravens,Panthers,1.5,,,21,36,Panthers,Panthers,Ravens,INCORRECT
+115,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Seahawks_Lions_8,2018,,8,Seahawks,Lions,-2.5,,,28,14,Seahawks,Seahawks,Seahawks,CORRECT
+116,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Colts_Raiders_8,2018,,8,Colts,Raiders,2.5,,,42,28,Colts,Colts,Raiders,INCORRECT
+117,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Packers_Rams_8,2018,,8,Packers,Rams,-9.5,,,27,29,Rams,Packers,Rams,INCORRECT
+118,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_49ers_Cardinals_8,2018,,8,49ers,Cardinals,-0.5,,,15,18,Cardinals,Cardinals,Cardinals,CORRECT
+119,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Saints_Vikings_8,2018,,8,Saints,Vikings,-0.5,,,30,20,Saints,Saints,Saints,CORRECT
+120,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Patriots_Bills_8,2018,,8,Patriots,Bills,14.5,,,25,6,Patriots,Patriots,Bills,INCORRECT
+121,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Raiders_49ers_9,2018,,9,Raiders,49ers,-2.5,,,3,34,49ers,49ers,Raiders,INCORRECT
+122,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Lions_Vikings_9,2018,,9,Lions,Vikings,-4.5,,,9,24,Vikings,Vikings,Vikings,CORRECT
+123,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Falcons_Redskins_9,2018,,9,Falcons,Redskins,-1.5,,,38,14,Falcons,Falcons,Redskins,INCORRECT
+124,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jets_Dolphins_9,2018,,9,Jets,Dolphins,-3.5,,,6,13,Dolphins,Dolphins,Jets,INCORRECT
+125,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Steelers_Ravens_9,2018,,9,Steelers,Ravens,-2.5,,,23,16,Steelers,Steelers,Steelers,CORRECT
+126,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chiefs_Browns_9,2018,,9,Chiefs,Browns,8.5,,,37,21,Chiefs,Chiefs,Browns,INCORRECT
+127,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Buccaneers_Panthers_9,2018,,9,Buccaneers,Panthers,-6.5,,,28,42,Panthers,Panthers,Panthers,CORRECT
+128,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bears_Bills_9,2018,,9,Bears,Bills,8.5,,,41,9,Bears,Bears,Bears,CORRECT
+129,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Texans_Broncos_9,2018,,9,Texans,Broncos,-2.5,,,19,17,Texans,Texans,Texans,CORRECT
+130,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chargers_Seahawks_9,2018,,9,Chargers,Seahawks,-1.5,,,25,17,Chargers,Chargers,Seahawks,INCORRECT
+131,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Rams_Saints_9,2018,,9,Rams,Saints,-1.5,,,35,45,Saints,Saints,Rams,INCORRECT
+132,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Packers_Patriots_9,2018,,9,Packers,Patriots,-5.5,,,17,31,Patriots,Patriots,Patriots,CORRECT
+133,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Titans_Cowboys_9,2018,,9,Titans,Cowboys,-6.5,,,28,14,Titans,Titans,Titans,CORRECT
+134,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Panthers_Steelers_10,2018,,10,Panthers,Steelers,-4.5,,,21,52,Steelers,Steelers,Panthers,INCORRECT
+135,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cardinals_Chiefs_10,2018,,10,Cardinals,Chiefs,-16.5,,,14,26,Chiefs,Cardinals,Cardinals,CORRECT
+136,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Lions_Bears_10,2018,,10,Lions,Bears,-6.5,,,22,34,Bears,Bears,Bears,CORRECT
+137,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jaguars_Colts_10,2018,,10,Jaguars,Colts,-2.5,,,26,29,Colts,Colts,Colts,CORRECT
+138,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Dolphins_Packers_10,2018,,10,Dolphins,Packers,-9.5,,,12,31,Packers,Packers,Packers,CORRECT
+139,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Saints_Bengals_10,2018,,10,Saints,Bengals,4.5,,,51,14,Saints,Saints,Saints,CORRECT
+140,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Falcons_Browns_10,2018,,10,Falcons,Browns,4.5,,,16,28,Browns,Browns,Falcons,INCORRECT
+141,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Patriots_Titans_10,2018,,10,Patriots,Titans,7.5,,,10,34,Titans,Titans,Titans,CORRECT
+142,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Redskins_Buccaneers_10,2018,,10,Redskins,Buccaneers,-2.5,,,16,3,Redskins,Redskins,Buccaneers,INCORRECT
+143,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bills_Jets_10,2018,,10,Bills,Jets,-7.5,,,41,10,Bills,Bills,Bills,CORRECT
+144,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chargers_Raiders_10,2018,,10,Chargers,Raiders,9.5,,,20,6,Chargers,Chargers,Chargers,CORRECT
+145,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Seahawks_Rams_10,2018,,10,Seahawks,Rams,-9.5,,,31,36,Rams,Seahawks,Seahawks,CORRECT
+146,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cowboys_Eagles_10,2018,,10,Cowboys,Eagles,-6.5,,,27,20,Cowboys,Cowboys,Cowboys,CORRECT
+147,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Giants_49ers_10,2018,,10,Giants,49ers,-2.5,,,27,23,Giants,Giants,49ers,INCORRECT
+148,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Packers_Seahawks_11,2018,,11,Packers,Seahawks,-2.5,,,24,27,Seahawks,Seahawks,Seahawks,CORRECT
+149,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Panthers_Lions_11,2018,,11,Panthers,Lions,3.5,,,19,20,Lions,Lions,Panthers,INCORRECT
+150,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Buccaneers_Giants_11,2018,,11,Buccaneers,Giants,-0.5,,,35,38,Giants,Giants,Giants,CORRECT
+151,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bengals_Ravens_11,2018,,11,Bengals,Ravens,-3.5,,,21,24,Ravens,Bengals,Ravens,INCORRECT
+152,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cowboys_Falcons_11,2018,,11,Cowboys,Falcons,-3.5,,,22,19,Cowboys,Cowboys,Falcons,INCORRECT
+153,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Vikings_Bears_11,2018,,11,Vikings,Bears,-2.5,,,20,25,Bears,Bears,Bears,CORRECT
+154,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Eagles_Saints_11,2018,,11,Eagles,Saints,-8.5,,,7,48,Saints,Saints,Eagles,INCORRECT
+155,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Titans_Colts_11,2018,,11,Titans,Colts,-2.5,,,10,38,Colts,Colts,Titans,INCORRECT
+156,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Texans_Redskins_11,2018,,11,Texans,Redskins,2.5,,,23,21,Texans,Redskins,Texans,INCORRECT
+157,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Broncos_Chargers_11,2018,,11,Broncos,Chargers,-7.5,,,23,22,Broncos,Broncos,Broncos,CORRECT
+158,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Raiders_Cardinals_11,2018,,11,Raiders,Cardinals,-3.5,,,23,21,Raiders,Raiders,Cardinals,INCORRECT
+159,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Steelers_Jaguars_11,2018,,11,Steelers,Jaguars,5.5,,,20,16,Steelers,Jaguars,Jaguars,CORRECT
+160,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chiefs_Rams_11,2018,,11,Chiefs,Rams,-2.5,,,51,54,Rams,Rams,Rams,CORRECT
+161,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bears_Lions_12,2018,,12,Bears,Lions,4.5,,,23,16,Bears,Bears,Lions,INCORRECT
+162,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Redskins_Cowboys_12,2018,,12,Redskins,Cowboys,7.5,,,23,31,Cowboys,Cowboys,Redskins,INCORRECT
+163,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Falcons_Saints_12,2018,,12,Falcons,Saints,13.5,,,17,31,Saints,Saints,Falcons,INCORRECT
+164,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Browns_Bengals_12,2018,,12,Browns,Bengals,-3.5,,,35,20,Browns,Browns,Browns,CORRECT
+165,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Seahawks_Panthers_12,2018,,12,Seahawks,Panthers,-3.5,,,30,27,Seahawks,Seahawks,Seahawks,CORRECT
+166,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jaguars_Bills_12,2018,,12,Jaguars,Bills,3.5,,,21,24,Bills,Bills,Bills,CORRECT
+167,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Dolphins_Colts_12,2018,,12,Dolphins,Colts,-9.5,,,24,27,Colts,Dolphins,Dolphins,CORRECT
+168,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Giants_Eagles_12,2018,,12,Giants,Eagles,-6.5,,,22,25,Eagles,Giants,Giants,CORRECT
+169,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Patriots_Jets_12,2018,,12,Patriots,Jets,9.5,,,27,13,Patriots,Patriots,Patriots,CORRECT
+170,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Raiders_Ravens_12,2018,,12,Raiders,Ravens,-10.5,,,17,34,Ravens,Ravens,Ravens,CORRECT
+171,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_49ers_Buccaneers_12,2018,,12,49ers,Buccaneers,-3.5,,,9,27,Buccaneers,Buccaneers,49ers,INCORRECT
+172,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cardinals_Chargers_12,2018,,12,Cardinals,Chargers,-12.5,,,10,45,Chargers,Chargers,Chargers,CORRECT
+173,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Steelers_Broncos_12,2018,,12,Steelers,Broncos,3.5,,,17,24,Broncos,Broncos,Broncos,CORRECT
+174,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Packers_Vikings_12,2018,,12,Packers,Vikings,-3.5,,,17,24,Vikings,Vikings,Vikings,CORRECT
+175,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Titans_Texans_12,2018,,12,Titans,Texans,-6.5,,,17,34,Texans,Texans,Titans,INCORRECT
+176,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Saints_Cowboys_13,2018,,13,Saints,Cowboys,7.5,,,10,13,Cowboys,Cowboys,Cowboys,CORRECT
+177,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Rams_Lions_13,2018,,13,Rams,Lions,9.5,,,30,16,Rams,Rams,Rams,CORRECT
+178,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bills_Dolphins_13,2018,,13,Bills,Dolphins,-5.5,,,17,21,Dolphins,Bills,Bills,CORRECT
+179,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chargers_Steelers_13,2018,,13,Chargers,Steelers,-3.5,,,33,30,Chargers,Chargers,Steelers,INCORRECT
+180,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Panthers_Buccaneers_13,2018,,13,Panthers,Buccaneers,3.5,,,17,24,Buccaneers,Buccaneers,Buccaneers,CORRECT
+181,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bears_Giants_13,2018,,13,Bears,Giants,4.5,,,27,30,Giants,Giants,Giants,CORRECT
+182,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Colts_Jaguars_13,2018,,13,Colts,Jaguars,3.5,,,0,6,Jaguars,Jaguars,Colts,INCORRECT
+183,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Browns_Texans_13,2018,,13,Browns,Texans,-6.5,,,13,29,Texans,Texans,Browns,INCORRECT
+184,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cardinals_Packers_13,2018,,13,Cardinals,Packers,-14.5,,,20,17,Cardinals,Cardinals,Cardinals,CORRECT
+185,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Broncos_Bengals_13,2018,,13,Broncos,Bengals,3.5,,,24,10,Broncos,Broncos,Broncos,CORRECT
+186,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Ravens_Falcons_13,2018,,13,Ravens,Falcons,1.5,,,26,16,Ravens,Ravens,Falcons,INCORRECT
+187,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jets_Titans_13,2018,,13,Jets,Titans,-9.5,,,22,26,Titans,Jets,Titans,INCORRECT
+188,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chiefs_Raiders_13,2018,,13,Chiefs,Raiders,14.5,,,40,33,Chiefs,Raiders,Raiders,CORRECT
+189,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Vikings_Patriots_13,2018,,13,Vikings,Patriots,-3.5,,,10,24,Patriots,Patriots,Vikings,INCORRECT
+190,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_49ers_Seahawks_13,2018,,13,49ers,Seahawks,-10.5,,,16,43,Seahawks,Seahawks,49ers,INCORRECT
+191,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Redskins_Eagles_13,2018,,13,Redskins,Eagles,-6.5,,,13,28,Eagles,Eagles,Redskins,INCORRECT
+192,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jaguars_Titans_14,2018,,14,Jaguars,Titans,-3.5,,,9,30,Titans,Titans,Titans,CORRECT
+193,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Giants_Redskins_14,2018,,14,Giants,Redskins,-0.5,,,40,16,Giants,Giants,Giants,CORRECT
+194,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Patriots_Dolphins_14,2018,,14,Patriots,Dolphins,8.5,,,33,34,Dolphins,Dolphins,Dolphins,CORRECT
+195,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Ravens_Chiefs_14,2018,,14,Ravens,Chiefs,-6.5,,,24,27,Chiefs,Ravens,Ravens,CORRECT
+196,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Rams_Bears_14,2018,,14,Rams,Bears,3.5,,,6,15,Bears,Bears,Bears,CORRECT
+197,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Panthers_Browns_14,2018,,14,Panthers,Browns,1.5,,,20,26,Browns,Browns,Browns,CORRECT
+198,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Colts_Texans_14,2018,,14,Colts,Texans,-4.5,,,24,21,Colts,Colts,Colts,CORRECT
+199,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Saints_Buccaneers_14,2018,,14,Saints,Buccaneers,8.5,,,28,14,Saints,Saints,Saints,CORRECT
+200,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jets_Bills_14,2018,,14,Jets,Bills,3.5,,,27,23,Jets,Jets,Jets,CORRECT
+201,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Falcons_Packers_14,2018,,14,Falcons,Packers,-5.5,,,20,34,Packers,Packers,Falcons,INCORRECT
+202,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bengals_Chargers_14,2018,,14,Bengals,Chargers,-14.5,,,21,26,Chargers,Bengals,Chargers,INCORRECT
+203,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Broncos_49ers_14,2018,,14,Broncos,49ers,5.5,,,14,20,49ers,49ers,49ers,CORRECT
+204,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Lions_Cardinals_14,2018,,14,Lions,Cardinals,2.5,,,17,3,Lions,Lions,Lions,CORRECT
+205,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Eagles_Cowboys_14,2018,,14,Eagles,Cowboys,-4.5,,,23,29,Cowboys,Cowboys,Eagles,INCORRECT
+206,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Steelers_Raiders_14,2018,,14,Steelers,Raiders,11.5,,,21,24,Raiders,Raiders,Raiders,CORRECT
+207,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Vikings_Seahawks_14,2018,,14,Vikings,Seahawks,-3.5,,,7,21,Seahawks,Seahawks,Vikings,INCORRECT
+208,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chargers_Chiefs_15,2018,,15,Chargers,Chiefs,-3.5,,,29,28,Chargers,Chargers,Chiefs,INCORRECT
+209,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Browns_Broncos_15,2018,,15,Browns,Broncos,-3.5,,,17,16,Browns,Browns,Browns,CORRECT
+210,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Texans_Jets_15,2018,,15,Texans,Jets,6.5,,,29,22,Texans,Texans,Texans,CORRECT
+211,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Titans_Giants_15,2018,,15,Titans,Giants,-2.5,,,17,0,Titans,Titans,Titans,CORRECT
+212,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Raiders_Bengals_15,2018,,15,Raiders,Bengals,-2.5,,,16,30,Bengals,Bengals,Bengals,CORRECT
+213,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Buccaneers_Ravens_15,2018,,15,Buccaneers,Ravens,-7.5,,,12,20,Ravens,Ravens,Ravens,CORRECT
+214,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Redskins_Jaguars_15,2018,,15,Redskins,Jaguars,-6.5,,,16,13,Redskins,Redskins,Jaguars,INCORRECT
+215,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cowboys_Colts_15,2018,,15,Cowboys,Colts,-2.5,,,0,23,Colts,Colts,Colts,CORRECT
+216,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cardinals_Falcons_15,2018,,15,Cardinals,Falcons,-8.5,,,14,40,Falcons,Falcons,Falcons,CORRECT
+217,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Lions_Bills_15,2018,,15,Lions,Bills,-2.5,,,13,14,Bills,Lions,Lions,CORRECT
+218,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Dolphins_Vikings_15,2018,,15,Dolphins,Vikings,-6.5,,,17,41,Vikings,Vikings,Vikings,CORRECT
+219,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Packers_Bears_15,2018,,15,Packers,Bears,-5.5,,,17,24,Bears,Bears,Packers,INCORRECT
+220,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Seahawks_49ers_15,2018,,15,Seahawks,49ers,5.5,,,23,26,49ers,49ers,49ers,CORRECT
+221,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Patriots_Steelers_15,2018,,15,Patriots,Steelers,1.5,,,10,17,Steelers,Steelers,Patriots,INCORRECT
+222,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Eagles_Rams_15,2018,,15,Eagles,Rams,-9.5,,,30,23,Eagles,Eagles,Rams,INCORRECT
+223,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Saints_Panthers_15,2018,,15,Saints,Panthers,6.5,,,12,9,Saints,Panthers,Panthers,CORRECT
+224,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Vikings_Lions_16,2018,,16,Vikings,Lions,5.5,,,27,9,Vikings,Vikings,Lions,INCORRECT
+225,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jaguars_Dolphins_16,2018,,16,Jaguars,Dolphins,-4.5,,,17,7,Jaguars,Jaguars,Jaguars,CORRECT
+226,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Texans_Eagles_16,2018,,16,Texans,Eagles,-0.5,,,30,32,Eagles,Eagles,Eagles,CORRECT
+227,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Falcons_Panthers_16,2018,,16,Falcons,Panthers,-3.5,,,24,10,Falcons,Falcons,Falcons,CORRECT
+228,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Packers_Jets_16,2018,,16,Packers,Jets,-0.5,,,44,38,Packers,Packers,Packers,CORRECT
+229,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Giants_Colts_16,2018,,16,Giants,Colts,-9.5,,,27,28,Colts,Giants,Colts,INCORRECT
+230,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bills_Patriots_16,2018,,16,Bills,Patriots,-12.5,,,12,24,Patriots,Bills,Patriots,INCORRECT
+231,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Buccaneers_Cowboys_16,2018,,16,Buccaneers,Cowboys,-7.5,,,20,27,Cowboys,Buccaneers,Buccaneers,CORRECT
+232,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bengals_Browns_16,2018,,16,Bengals,Browns,-6.5,,,18,26,Browns,Browns,Browns,CORRECT
+233,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Redskins_Titans_16,2018,,16,Redskins,Titans,-10.5,,,16,25,Titans,Redskins,Titans,INCORRECT
+234,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Ravens_Chargers_16,2018,,16,Ravens,Chargers,-4.5,,,22,10,Ravens,Ravens,Ravens,CORRECT
+235,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Rams_Cardinals_16,2018,,16,Rams,Cardinals,14.5,,,31,9,Rams,Rams,Cardinals,INCORRECT
+236,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bears_49ers_16,2018,,16,Bears,49ers,3.5,,,14,9,Bears,Bears,Bears,CORRECT
+237,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Steelers_Saints_16,2018,,16,Steelers,Saints,-6.5,,,28,31,Saints,Steelers,Steelers,CORRECT
+238,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chiefs_Seahawks_16,2018,,16,Chiefs,Seahawks,2.5,,,31,38,Seahawks,Seahawks,Seahawks,CORRECT
+239,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Broncos_Raiders_16,2018,,16,Broncos,Raiders,2.5,,,14,27,Raiders,Raiders,Raiders,CORRECT
+240,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Lions_Packers_17,2018,,17,Lions,Packers,-7.5,,,31,0,Lions,Lions,Lions,CORRECT
+241,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Dolphins_Bills_17,2018,,17,Dolphins,Bills,-3.5,,,17,42,Bills,Bills,Bills,CORRECT
+242,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jets_Patriots_17,2018,,17,Jets,Patriots,-13.5,,,3,38,Patriots,Patriots,Patriots,CORRECT
+243,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Eagles_Redskins_17,2018,,17,Eagles,Redskins,6.5,,,24,0,Eagles,Eagles,Redskins,INCORRECT
+244,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Jaguars_Texans_17,2018,,17,Jaguars,Texans,-7.5,,,3,20,Texans,Texans,Jaguars,INCORRECT
+245,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Raiders_Chiefs_17,2018,,17,Raiders,Chiefs,-13.5,,,3,35,Chiefs,Chiefs,Chiefs,CORRECT
+246,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Falcons_Buccaneers_17,2018,,17,Falcons,Buccaneers,-1.5,,,34,32,Falcons,Falcons,Falcons,CORRECT
+247,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Panthers_Saints_17,2018,,17,Panthers,Saints,-10.5,,,33,14,Panthers,Panthers,Panthers,CORRECT
+248,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bengals_Steelers_17,2018,,17,Bengals,Steelers,-14.5,,,13,16,Steelers,Bengals,Bengals,CORRECT
+249,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Bears_Vikings_17,2018,,17,Bears,Vikings,-5.5,,,24,10,Bears,Bears,Vikings,INCORRECT
+250,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Colts_Titans_17,2018,,17,Colts,Titans,1.5,,,33,17,Colts,Colts,Colts,CORRECT
+251,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Browns_Ravens_17,2018,,17,Browns,Ravens,-6.5,,,24,26,Ravens,Browns,Browns,CORRECT
+252,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cowboys_Giants_17,2018,,17,Cowboys,Giants,-6.5,,,36,35,Cowboys,Cowboys,Giants,INCORRECT
+253,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_49ers_Rams_17,2018,,17,49ers,Rams,-9.5,,,32,48,Rams,Rams,Rams,CORRECT
+254,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Chargers_Broncos_17,2018,,17,Chargers,Broncos,6.5,,,23,9,Chargers,Chargers,Broncos,INCORRECT
+255,Ryan_2018,Ryan_2018,Ryan Moerer,{A3E930D1-5640-421E-9A41-630EBE631B8B},2018_Cardinals_Seahawks_17,2018,,17,Cardinals,Seahawks,-12.5,,,24,27,Seahawks,Cardinals,Seahawks,INCORRECT
+256,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Falcons_Eagles_1,2018,,1,Falcons,Eagles,-3.5,,,12,18,Eagles,Eagles,Falcons,INCORRECT
+257,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bills_Ravens_1,2018,,1,Bills,Ravens,-5.5,,,3,47,Ravens,Ravens,Ravens,CORRECT
+258,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bengals_Colts_1,2018,,1,Bengals,Colts,-3.5,,,34,23,Bengals,Bengals,Bengals,CORRECT
+259,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Steelers_Browns_1,2018,,1,Steelers,Browns,6.5,,,21,21,,Browns,Browns,CORRECT
+260,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Titans_Dolphins_1,2018,,1,Titans,Dolphins,1.5,,,20,27,Dolphins,Dolphins,Titans,INCORRECT
+261,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_49ers_Vikings_1,2018,,1,49ers,Vikings,-5.5,,,16,24,Vikings,Vikings,Vikings,CORRECT
+262,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Texans_Patriots_1,2018,,1,Texans,Patriots,-6.5,,,20,27,Patriots,Patriots,Patriots,CORRECT
+263,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Buccaneers_Saints_1,2018,,1,Buccaneers,Saints,-9.5,,,48,40,Buccaneers,Buccaneers,Saints,INCORRECT
+264,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jaguars_Giants_1,2018,,1,Jaguars,Giants,2.5,,,20,15,Jaguars,Jaguars,Jaguars,CORRECT
+265,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chiefs_Chargers_1,2018,,1,Chiefs,Chargers,-3.5,,,38,28,Chiefs,Chiefs,Chiefs,CORRECT
+266,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cowboys_Panthers_1,2018,,1,Cowboys,Panthers,-2.5,,,8,16,Panthers,Panthers,Panthers,CORRECT
+267,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Seahawks_Broncos_1,2018,,1,Seahawks,Broncos,-2.5,,,24,27,Broncos,Broncos,Seahawks,INCORRECT
+268,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Redskins_Cardinals_1,2018,,1,Redskins,Cardinals,-0.5,,,24,6,Redskins,Redskins,Redskins,CORRECT
+269,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bears_Packers_1,2018,,1,Bears,Packers,-8.5,,,23,24,Packers,Bears,Packers,INCORRECT
+270,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jets_Lions_1,2018,,1,Jets,Lions,-6.5,,,48,17,Jets,Jets,Lions,INCORRECT
+271,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Rams_Raiders_1,2018,,1,Rams,Raiders,2.5,,,33,13,Rams,Rams,Rams,CORRECT
+272,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Ravens_Bengals_2,2018,,2,Ravens,Bengals,0.5,,,23,34,Bengals,Bengals,Bengals,CORRECT
+273,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Panthers_Falcons_2,2018,,2,Panthers,Falcons,-5.5,,,24,31,Falcons,Falcons,Panthers,INCORRECT
+274,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chargers_Bills_2,2018,,2,Chargers,Bills,7.5,,,31,20,Chargers,Chargers,Chargers,CORRECT
+275,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Browns_Saints_2,2018,,2,Browns,Saints,-8.5,,,18,21,Saints,Browns,Browns,CORRECT
+276,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Vikings_Packers_2,2018,,2,Vikings,Packers,-0.5,,,29,29,,Vikings,Vikings,CORRECT
+277,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Texans_Titans_2,2018,,2,Texans,Titans,2.5,,,17,20,Titans,Titans,Texans,INCORRECT
+278,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Colts_Redskins_2,2018,,2,Colts,Redskins,-5.5,,,21,9,Colts,Colts,Redskins,INCORRECT
+279,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chiefs_Steelers_2,2018,,2,Chiefs,Steelers,-5.5,,,42,37,Chiefs,Chiefs,Chiefs,CORRECT
+280,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Dolphins_Jets_2,2018,,2,Dolphins,Jets,-2.5,,,20,12,Dolphins,Dolphins,Dolphins,CORRECT
+281,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Eagles_Buccaneers_2,2018,,2,Eagles,Buccaneers,3.5,,,21,27,Buccaneers,Buccaneers,Eagles,INCORRECT
+282,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Lions_49ers_2,2018,,2,Lions,49ers,-5.5,,,27,30,49ers,Lions,49ers,INCORRECT
+283,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cardinals_Rams_2,2018,,2,Cardinals,Rams,-12.5,,,0,34,Rams,Rams,Rams,CORRECT
+284,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Raiders_Broncos_2,2018,,2,Raiders,Broncos,-5.5,,,19,20,Broncos,Raiders,Broncos,INCORRECT
+285,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Patriots_Jaguars_2,2018,,2,Patriots,Jaguars,2.5,,,20,31,Jaguars,Jaguars,Patriots,INCORRECT
+286,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Giants_Cowboys_2,2018,,2,Giants,Cowboys,-2.5,,,13,20,Cowboys,Cowboys,Giants,INCORRECT
+287,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Seahawks_Bears_2,2018,,2,Seahawks,Bears,-3.5,,,17,24,Bears,Bears,Seahawks,INCORRECT
+288,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jets_Browns_3,2018,,3,Jets,Browns,-3.5,,,17,21,Browns,Browns,Jets,INCORRECT
+289,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Saints_Falcons_3,2018,,3,Saints,Falcons,-3.5,,,43,37,Saints,Saints,Saints,CORRECT
+290,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bills_Vikings_3,2018,,3,Bills,Vikings,-16.5,,,27,6,Bills,Bills,Vikings,INCORRECT
+291,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bengals_Panthers_3,2018,,3,Bengals,Panthers,-2.5,,,21,31,Panthers,Panthers,Bengals,INCORRECT
+292,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Broncos_Ravens_3,2018,,3,Broncos,Ravens,-4.5,,,14,27,Ravens,Ravens,Broncos,INCORRECT
+293,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Packers_Redskins_3,2018,,3,Packers,Redskins,2.5,,,17,31,Redskins,Redskins,Redskins,CORRECT
+294,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Titans_Jaguars_3,2018,,3,Titans,Jaguars,-7.5,,,9,6,Titans,Titans,Titans,CORRECT
+295,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Colts_Eagles_3,2018,,3,Colts,Eagles,-6.5,,,16,20,Eagles,Colts,Eagles,INCORRECT
+296,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_49ers_Chiefs_3,2018,,3,49ers,Chiefs,-6.5,,,27,38,Chiefs,Chiefs,Chiefs,CORRECT
+297,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Raiders_Dolphins_3,2018,,3,Raiders,Dolphins,-3.5,,,20,28,Dolphins,Dolphins,Dolphins,CORRECT
+298,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Giants_Texans_3,2018,,3,Giants,Texans,-5.5,,,27,22,Giants,Giants,Texans,INCORRECT
+299,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chargers_Rams_3,2018,,3,Chargers,Rams,-6.5,,,23,35,Rams,Rams,Rams,CORRECT
+300,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bears_Cardinals_3,2018,,3,Bears,Cardinals,4.5,,,16,14,Bears,Cardinals,Bears,INCORRECT
+301,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cowboys_Seahawks_3,2018,,3,Cowboys,Seahawks,-2.5,,,13,24,Seahawks,Seahawks,Seahawks,CORRECT
+302,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Patriots_Lions_3,2018,,3,Patriots,Lions,6.5,,,10,26,Lions,Lions,Patriots,INCORRECT
+303,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Steelers_Buccaneers_3,2018,,3,Steelers,Buccaneers,1.5,,,30,27,Steelers,Steelers,Steelers,CORRECT
+304,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Vikings_Rams_4,2018,,4,Vikings,Rams,-6.5,,,31,38,Rams,Rams,Rams,CORRECT
+305,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bengals_Falcons_4,2018,,4,Bengals,Falcons,-5.5,,,37,36,Bengals,Bengals,Falcons,INCORRECT
+306,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bills_Packers_4,2018,,4,Bills,Packers,-10.5,,,0,22,Packers,Packers,Packers,CORRECT
+307,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Buccaneers_Bears_4,2018,,4,Buccaneers,Bears,-2.5,,,10,48,Bears,Bears,Bears,CORRECT
+308,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Lions_Cowboys_4,2018,,4,Lions,Cowboys,-2.5,,,24,26,Cowboys,Lions,Lions,CORRECT
+309,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Eagles_Titans_4,2018,,4,Eagles,Titans,3.5,,,23,26,Titans,Titans,Eagles,INCORRECT
+310,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Texans_Colts_4,2018,,4,Texans,Colts,-0.5,,,37,34,Texans,Texans,Colts,INCORRECT
+311,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Dolphins_Patriots_4,2018,,4,Dolphins,Patriots,-6.5,,,7,38,Patriots,Patriots,Dolphins,INCORRECT
+312,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jets_Jaguars_4,2018,,4,Jets,Jaguars,-7.5,,,12,31,Jaguars,Jaguars,Jaguars,CORRECT
+313,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Browns_Raiders_4,2018,,4,Browns,Raiders,-2.5,,,42,45,Raiders,Raiders,Browns,INCORRECT
+314,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Seahawks_Cardinals_4,2018,,4,Seahawks,Cardinals,3.5,,,20,17,Seahawks,Cardinals,Seahawks,INCORRECT
+315,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Saints_Giants_4,2018,,4,Saints,Giants,3.5,,,33,18,Saints,Saints,Saints,CORRECT
+316,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_49ers_Chargers_4,2018,,4,49ers,Chargers,-10.5,,,27,29,Chargers,49ers,Chargers,INCORRECT
+317,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Ravens_Steelers_4,2018,,4,Ravens,Steelers,-3.5,,,26,14,Ravens,Ravens,Steelers,INCORRECT
+318,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chiefs_Broncos_4,2018,,4,Chiefs,Broncos,5.5,,,27,23,Chiefs,Broncos,Chiefs,INCORRECT
+319,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Colts_Patriots_5,2018,,5,Colts,Patriots,-10.5,,,24,38,Patriots,Patriots,Colts,INCORRECT
+320,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Falcons_Steelers_5,2018,,5,Falcons,Steelers,-3.5,,,17,41,Steelers,Steelers,Falcons,INCORRECT
+321,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Titans_Bills_5,2018,,5,Titans,Bills,3.5,,,12,13,Bills,Bills,Titans,INCORRECT
+322,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Dolphins_Bengals_5,2018,,5,Dolphins,Bengals,-6.5,,,17,27,Bengals,Bengals,Bengals,CORRECT
+323,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Ravens_Browns_5,2018,,5,Ravens,Browns,2.5,,,9,12,Browns,Browns,Browns,CORRECT
+324,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Broncos_Jets_5,2018,,5,Broncos,Jets,-0.5,,,16,34,Jets,Jets,Broncos,INCORRECT
+325,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Packers_Lions_5,2018,,5,Packers,Lions,1.5,,,23,31,Lions,Lions,Packers,INCORRECT
+326,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jaguars_Chiefs_5,2018,,5,Jaguars,Chiefs,-3.5,,,14,30,Chiefs,Chiefs,Chiefs,CORRECT
+327,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Giants_Panthers_5,2018,,5,Giants,Panthers,-6.5,,,31,33,Panthers,Giants,Panthers,INCORRECT
+328,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Raiders_Chargers_5,2018,,5,Raiders,Chargers,-5.5,,,10,26,Chargers,Chargers,Raiders,INCORRECT
+329,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Rams_Seahawks_5,2018,,5,Rams,Seahawks,7.5,,,33,31,Rams,Seahawks,Seahawks,CORRECT
+330,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Vikings_Eagles_5,2018,,5,Vikings,Eagles,-3.5,,,23,21,Vikings,Vikings,Eagles,INCORRECT
+331,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cardinals_49ers_5,2018,,5,Cardinals,49ers,-4.5,,,28,18,Cardinals,Cardinals,Cardinals,CORRECT
+332,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cowboys_Texans_5,2018,,5,Cowboys,Texans,-3.5,,,16,19,Texans,Cowboys,Texans,INCORRECT
+333,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Redskins_Saints_5,2018,,5,Redskins,Saints,-6.5,,,19,43,Saints,Saints,Saints,CORRECT
+334,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Eagles_Giants_6,2018,,6,Eagles,Giants,2.5,,,34,13,Eagles,Eagles,Eagles,CORRECT
+335,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Steelers_Bengals_6,2018,,6,Steelers,Bengals,-2.5,,,28,21,Steelers,Steelers,Steelers,CORRECT
+336,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Panthers_Redskins_6,2018,,6,Panthers,Redskins,-1.5,,,17,23,Redskins,Redskins,Panthers,INCORRECT
+337,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Buccaneers_Falcons_6,2018,,6,Buccaneers,Falcons,-3.5,,,29,34,Falcons,Falcons,Falcons,CORRECT
+338,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bills_Texans_6,2018,,6,Bills,Texans,-7.5,,,13,20,Texans,Bills,Texans,INCORRECT
+339,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chargers_Browns_6,2018,,6,Chargers,Browns,0.5,,,38,14,Chargers,Chargers,Chargers,CORRECT
+340,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Seahawks_Raiders_6,2018,,6,Seahawks,Raiders,2.5,,,27,3,Seahawks,Seahawks,Seahawks,CORRECT
+341,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bears_Dolphins_6,2018,,6,Bears,Dolphins,2.5,,,28,31,Dolphins,Dolphins,Bears,INCORRECT
+342,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cardinals_Vikings_6,2018,,6,Cardinals,Vikings,-10.5,,,17,27,Vikings,Cardinals,Cardinals,CORRECT
+343,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Colts_Jets_6,2018,,6,Colts,Jets,-2.5,,,34,42,Jets,Jets,Colts,INCORRECT
+344,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Rams_Broncos_6,2018,,6,Rams,Broncos,6.5,,,23,20,Rams,Broncos,Rams,INCORRECT
+345,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jaguars_Cowboys_6,2018,,6,Jaguars,Cowboys,2.5,,,7,40,Cowboys,Cowboys,Jaguars,INCORRECT
+346,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Ravens_Titans_6,2018,,6,Ravens,Titans,2.5,,,21,0,Ravens,Ravens,Titans,INCORRECT
+347,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chiefs_Patriots_6,2018,,6,Chiefs,Patriots,-3.5,,,40,43,Patriots,Chiefs,Chiefs,CORRECT
+348,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_49ers_Packers_6,2018,,6,49ers,Packers,-9.5,,,30,33,Packers,49ers,Packers,INCORRECT
+349,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Broncos_Cardinals_7,2018,,7,Broncos,Cardinals,2.5,,,45,10,Broncos,Broncos,Broncos,CORRECT
+350,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Titans_Chargers_7,2018,,7,Titans,Chargers,-6.5,,,19,20,Chargers,Titans,Titans,CORRECT
+351,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Lions_Dolphins_7,2018,,7,Lions,Dolphins,0.5,,,32,21,Lions,Lions,Lions,CORRECT
+352,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Vikings_Jets_7,2018,,7,Vikings,Jets,3.5,,,37,17,Vikings,Vikings,Vikings,CORRECT
+353,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Patriots_Bears_7,2018,,7,Patriots,Bears,3.5,,,38,31,Patriots,Patriots,Patriots,CORRECT
+354,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Texans_Jaguars_7,2018,,7,Texans,Jaguars,-4.5,,,20,7,Texans,Texans,Texans,CORRECT
+355,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Panthers_Eagles_7,2018,,7,Panthers,Eagles,-4.5,,,21,17,Panthers,Panthers,Eagles,INCORRECT
+356,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bills_Colts_7,2018,,7,Bills,Colts,-6.5,,,5,37,Colts,Colts,Colts,CORRECT
+357,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Browns_Buccaneers_7,2018,,7,Browns,Buccaneers,-3.5,,,23,26,Buccaneers,Browns,Buccaneers,INCORRECT
+358,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bengals_Chiefs_7,2018,,7,Bengals,Chiefs,-5.5,,,10,45,Chiefs,Chiefs,Chiefs,CORRECT
+359,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Saints_Ravens_7,2018,,7,Saints,Ravens,-2.5,,,24,23,Saints,Saints,Saints,CORRECT
+360,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cowboys_Redskins_7,2018,,7,Cowboys,Redskins,-1.5,,,17,20,Redskins,Redskins,Redskins,CORRECT
+361,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Rams_49ers_7,2018,,7,Rams,49ers,10.5,,,39,10,Rams,Rams,Rams,CORRECT
+362,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Giants_Falcons_7,2018,,7,Giants,Falcons,-6.5,,,20,23,Falcons,Giants,Falcons,INCORRECT
+363,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Dolphins_Texans_8,2018,,8,Dolphins,Texans,-7.5,,,23,42,Texans,Texans,Dolphins,INCORRECT
+364,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Eagles_Jaguars_8,2018,,8,Eagles,Jaguars,2.5,,,24,18,Eagles,Eagles,Eagles,CORRECT
+365,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Browns_Steelers_8,2018,,8,Browns,Steelers,-8.5,,,18,33,Steelers,Steelers,Browns,INCORRECT
+366,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Broncos_Chiefs_8,2018,,8,Broncos,Chiefs,-10.5,,,23,30,Chiefs,Broncos,Broncos,CORRECT
+367,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jets_Bears_8,2018,,8,Jets,Bears,-6.5,,,10,24,Bears,Bears,Bears,CORRECT
+368,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Redskins_Giants_8,2018,,8,Redskins,Giants,0.5,,,20,13,Redskins,Redskins,Giants,INCORRECT
+369,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Buccaneers_Bengals_8,2018,,8,Buccaneers,Bengals,-4.5,,,34,37,Bengals,Buccaneers,Bengals,INCORRECT
+370,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Ravens_Panthers_8,2018,,8,Ravens,Panthers,1.5,,,21,36,Panthers,Panthers,Panthers,CORRECT
+371,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Seahawks_Lions_8,2018,,8,Seahawks,Lions,-2.5,,,28,14,Seahawks,Seahawks,Seahawks,CORRECT
+372,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Colts_Raiders_8,2018,,8,Colts,Raiders,2.5,,,42,28,Colts,Colts,Colts,CORRECT
+373,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Packers_Rams_8,2018,,8,Packers,Rams,-9.5,,,27,29,Rams,Packers,Packers,CORRECT
+374,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_49ers_Cardinals_8,2018,,8,49ers,Cardinals,-0.5,,,15,18,Cardinals,Cardinals,Cardinals,CORRECT
+375,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Saints_Vikings_8,2018,,8,Saints,Vikings,-0.5,,,30,20,Saints,Saints,Saints,CORRECT
+376,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Patriots_Bills_8,2018,,8,Patriots,Bills,14.5,,,25,6,Patriots,Patriots,Patriots,CORRECT
+377,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Raiders_49ers_9,2018,,9,Raiders,49ers,-2.5,,,3,34,49ers,49ers,Raiders,INCORRECT
+378,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Lions_Vikings_9,2018,,9,Lions,Vikings,-4.5,,,9,24,Vikings,Vikings,Vikings,CORRECT
+379,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Falcons_Redskins_9,2018,,9,Falcons,Redskins,-1.5,,,38,14,Falcons,Falcons,Falcons,CORRECT
+380,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jets_Dolphins_9,2018,,9,Jets,Dolphins,-3.5,,,6,13,Dolphins,Dolphins,Jets,INCORRECT
+381,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Steelers_Ravens_9,2018,,9,Steelers,Ravens,-2.5,,,23,16,Steelers,Steelers,Steelers,CORRECT
+382,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chiefs_Browns_9,2018,,9,Chiefs,Browns,8.5,,,37,21,Chiefs,Chiefs,Chiefs,CORRECT
+383,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Buccaneers_Panthers_9,2018,,9,Buccaneers,Panthers,-6.5,,,28,42,Panthers,Panthers,Panthers,CORRECT
+384,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bears_Bills_9,2018,,9,Bears,Bills,8.5,,,41,9,Bears,Bears,Bears,CORRECT
+385,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Texans_Broncos_9,2018,,9,Texans,Broncos,-2.5,,,19,17,Texans,Texans,Texans,CORRECT
+386,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chargers_Seahawks_9,2018,,9,Chargers,Seahawks,-1.5,,,25,17,Chargers,Chargers,Chargers,CORRECT
+387,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Rams_Saints_9,2018,,9,Rams,Saints,-1.5,,,35,45,Saints,Saints,Rams,INCORRECT
+388,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Packers_Patriots_9,2018,,9,Packers,Patriots,-5.5,,,17,31,Patriots,Patriots,Packers,INCORRECT
+389,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Titans_Cowboys_9,2018,,9,Titans,Cowboys,-6.5,,,28,14,Titans,Titans,Titans,CORRECT
+390,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Panthers_Steelers_10,2018,,10,Panthers,Steelers,-4.5,,,21,52,Steelers,Steelers,Panthers,INCORRECT
+391,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cardinals_Chiefs_10,2018,,10,Cardinals,Chiefs,-16.5,,,14,26,Chiefs,Cardinals,Cardinals,CORRECT
+392,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Lions_Bears_10,2018,,10,Lions,Bears,-6.5,,,22,34,Bears,Bears,Bears,CORRECT
+393,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jaguars_Colts_10,2018,,10,Jaguars,Colts,-2.5,,,26,29,Colts,Colts,Colts,CORRECT
+394,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Dolphins_Packers_10,2018,,10,Dolphins,Packers,-9.5,,,12,31,Packers,Packers,Packers,CORRECT
+395,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Saints_Bengals_10,2018,,10,Saints,Bengals,4.5,,,51,14,Saints,Saints,Saints,CORRECT
+396,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Falcons_Browns_10,2018,,10,Falcons,Browns,4.5,,,16,28,Browns,Browns,Falcons,INCORRECT
+397,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Patriots_Titans_10,2018,,10,Patriots,Titans,7.5,,,10,34,Titans,Titans,Patriots,INCORRECT
+398,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Redskins_Buccaneers_10,2018,,10,Redskins,Buccaneers,-2.5,,,16,3,Redskins,Redskins,Buccaneers,INCORRECT
+399,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bills_Jets_10,2018,,10,Bills,Jets,-7.5,,,41,10,Bills,Bills,Bills,CORRECT
+400,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chargers_Raiders_10,2018,,10,Chargers,Raiders,9.5,,,20,6,Chargers,Chargers,Chargers,CORRECT
+401,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Seahawks_Rams_10,2018,,10,Seahawks,Rams,-9.5,,,31,36,Rams,Seahawks,Seahawks,CORRECT
+402,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cowboys_Eagles_10,2018,,10,Cowboys,Eagles,-6.5,,,27,20,Cowboys,Cowboys,Eagles,INCORRECT
+403,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Giants_49ers_10,2018,,10,Giants,49ers,-2.5,,,27,23,Giants,Giants,Giants,CORRECT
+404,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Packers_Seahawks_11,2018,,11,Packers,Seahawks,-2.5,,,24,27,Seahawks,Seahawks,Seahawks,CORRECT
+405,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Panthers_Lions_11,2018,,11,Panthers,Lions,3.5,,,19,20,Lions,Lions,Panthers,INCORRECT
+406,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Buccaneers_Giants_11,2018,,11,Buccaneers,Giants,-0.5,,,35,38,Giants,Giants,Buccaneers,INCORRECT
+407,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bengals_Ravens_11,2018,,11,Bengals,Ravens,-3.5,,,21,24,Ravens,Bengals,Bengals,CORRECT
+408,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cowboys_Falcons_11,2018,,11,Cowboys,Falcons,-3.5,,,22,19,Cowboys,Cowboys,Falcons,INCORRECT
+409,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Vikings_Bears_11,2018,,11,Vikings,Bears,-2.5,,,20,25,Bears,Bears,Vikings,INCORRECT
+410,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Eagles_Saints_11,2018,,11,Eagles,Saints,-8.5,,,7,48,Saints,Saints,Eagles,INCORRECT
+411,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Titans_Colts_11,2018,,11,Titans,Colts,-2.5,,,10,38,Colts,Colts,Colts,CORRECT
+412,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Texans_Redskins_11,2018,,11,Texans,Redskins,2.5,,,23,21,Texans,Redskins,Texans,INCORRECT
+413,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Broncos_Chargers_11,2018,,11,Broncos,Chargers,-7.5,,,23,22,Broncos,Broncos,Chargers,INCORRECT
+414,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Raiders_Cardinals_11,2018,,11,Raiders,Cardinals,-3.5,,,23,21,Raiders,Raiders,Cardinals,INCORRECT
+415,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Steelers_Jaguars_11,2018,,11,Steelers,Jaguars,5.5,,,20,16,Steelers,Jaguars,Steelers,INCORRECT
+416,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chiefs_Rams_11,2018,,11,Chiefs,Rams,-2.5,,,51,54,Rams,Rams,Chiefs,INCORRECT
+417,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bears_Lions_12,2018,,12,Bears,Lions,4.5,,,23,16,Bears,Bears,Lions,INCORRECT
+418,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Redskins_Cowboys_12,2018,,12,Redskins,Cowboys,7.5,,,23,31,Cowboys,Cowboys,Redskins,INCORRECT
+419,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Falcons_Saints_12,2018,,12,Falcons,Saints,13.5,,,17,31,Saints,Saints,Falcons,INCORRECT
+420,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Browns_Bengals_12,2018,,12,Browns,Bengals,-3.5,,,35,20,Browns,Browns,Bengals,INCORRECT
+421,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Seahawks_Panthers_12,2018,,12,Seahawks,Panthers,-3.5,,,30,27,Seahawks,Seahawks,Panthers,INCORRECT
+422,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jaguars_Bills_12,2018,,12,Jaguars,Bills,3.5,,,21,24,Bills,Bills,Jaguars,INCORRECT
+423,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Dolphins_Colts_12,2018,,12,Dolphins,Colts,-9.5,,,24,27,Colts,Dolphins,Colts,INCORRECT
+424,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Giants_Eagles_12,2018,,12,Giants,Eagles,-6.5,,,22,25,Eagles,Giants,Eagles,INCORRECT
+425,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Patriots_Jets_12,2018,,12,Patriots,Jets,9.5,,,27,13,Patriots,Patriots,Patriots,CORRECT
+426,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Raiders_Ravens_12,2018,,12,Raiders,Ravens,-10.5,,,17,34,Ravens,Ravens,Raiders,INCORRECT
+427,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_49ers_Buccaneers_12,2018,,12,49ers,Buccaneers,-3.5,,,9,27,Buccaneers,Buccaneers,Buccaneers,CORRECT
+428,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cardinals_Chargers_12,2018,,12,Cardinals,Chargers,-12.5,,,10,45,Chargers,Chargers,Cardinals,INCORRECT
+429,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Steelers_Broncos_12,2018,,12,Steelers,Broncos,3.5,,,17,24,Broncos,Broncos,Steelers,INCORRECT
+430,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Packers_Vikings_12,2018,,12,Packers,Vikings,-3.5,,,17,24,Vikings,Vikings,Packers,INCORRECT
+431,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Titans_Texans_12,2018,,12,Titans,Texans,-6.5,,,17,34,Texans,Texans,Texans,CORRECT
+432,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Saints_Cowboys_13,2018,,13,Saints,Cowboys,7.5,,,10,13,Cowboys,Cowboys,Saints,INCORRECT
+433,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Rams_Lions_13,2018,,13,Rams,Lions,9.5,,,30,16,Rams,Rams,Rams,CORRECT
+434,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bills_Dolphins_13,2018,,13,Bills,Dolphins,-5.5,,,17,21,Dolphins,Bills,Bills,CORRECT
+435,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chargers_Steelers_13,2018,,13,Chargers,Steelers,-3.5,,,33,30,Chargers,Chargers,Steelers,INCORRECT
+436,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Panthers_Buccaneers_13,2018,,13,Panthers,Buccaneers,3.5,,,17,24,Buccaneers,Buccaneers,Panthers,INCORRECT
+437,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bears_Giants_13,2018,,13,Bears,Giants,4.5,,,27,30,Giants,Giants,Bears,INCORRECT
+438,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Colts_Jaguars_13,2018,,13,Colts,Jaguars,3.5,,,0,6,Jaguars,Jaguars,Colts,INCORRECT
+439,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Browns_Texans_13,2018,,13,Browns,Texans,-6.5,,,13,29,Texans,Texans,Browns,INCORRECT
+440,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cardinals_Packers_13,2018,,13,Cardinals,Packers,-14.5,,,20,17,Cardinals,Cardinals,Cardinals,CORRECT
+441,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Broncos_Bengals_13,2018,,13,Broncos,Bengals,3.5,,,24,10,Broncos,Broncos,Broncos,CORRECT
+442,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Ravens_Falcons_13,2018,,13,Ravens,Falcons,1.5,,,26,16,Ravens,Ravens,Falcons,INCORRECT
+443,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jets_Titans_13,2018,,13,Jets,Titans,-9.5,,,22,26,Titans,Jets,Jets,CORRECT
+444,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chiefs_Raiders_13,2018,,13,Chiefs,Raiders,14.5,,,40,33,Chiefs,Raiders,Chiefs,INCORRECT
+445,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Vikings_Patriots_13,2018,,13,Vikings,Patriots,-3.5,,,10,24,Patriots,Patriots,Patriots,CORRECT
+446,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_49ers_Seahawks_13,2018,,13,49ers,Seahawks,-10.5,,,16,43,Seahawks,Seahawks,Seahawks,CORRECT
+447,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Redskins_Eagles_13,2018,,13,Redskins,Eagles,-6.5,,,13,28,Eagles,Eagles,Eagles,CORRECT
+448,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jaguars_Titans_14,2018,,14,Jaguars,Titans,-3.5,,,9,30,Titans,Titans,Titans,CORRECT
+449,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Giants_Redskins_14,2018,,14,Giants,Redskins,-0.5,,,40,16,Giants,Giants,Giants,CORRECT
+450,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Patriots_Dolphins_14,2018,,14,Patriots,Dolphins,8.5,,,33,34,Dolphins,Dolphins,Patriots,INCORRECT
+451,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Ravens_Chiefs_14,2018,,14,Ravens,Chiefs,-6.5,,,24,27,Chiefs,Ravens,Chiefs,INCORRECT
+452,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Rams_Bears_14,2018,,14,Rams,Bears,3.5,,,6,15,Bears,Bears,Rams,INCORRECT
+453,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Panthers_Browns_14,2018,,14,Panthers,Browns,1.5,,,20,26,Browns,Browns,Panthers,INCORRECT
+454,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Colts_Texans_14,2018,,14,Colts,Texans,-4.5,,,24,21,Colts,Colts,Texans,INCORRECT
+455,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Saints_Buccaneers_14,2018,,14,Saints,Buccaneers,8.5,,,28,14,Saints,Saints,Buccaneers,INCORRECT
+456,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Jets_Bills_14,2018,,14,Jets,Bills,3.5,,,27,23,Jets,Jets,Bills,INCORRECT
+457,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Falcons_Packers_14,2018,,14,Falcons,Packers,-5.5,,,20,34,Packers,Packers,Falcons,INCORRECT
+458,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Bengals_Chargers_14,2018,,14,Bengals,Chargers,-14.5,,,21,26,Chargers,Bengals,Bengals,CORRECT
+459,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Broncos_49ers_14,2018,,14,Broncos,49ers,5.5,,,14,20,49ers,49ers,Broncos,INCORRECT
+460,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Lions_Cardinals_14,2018,,14,Lions,Cardinals,2.5,,,17,3,Lions,Lions,Lions,CORRECT
+461,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Eagles_Cowboys_14,2018,,14,Eagles,Cowboys,-4.5,,,23,29,Cowboys,Cowboys,Eagles,INCORRECT
+462,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Steelers_Raiders_14,2018,,14,Steelers,Raiders,11.5,,,21,24,Raiders,Raiders,Steelers,INCORRECT
+463,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Vikings_Seahawks_14,2018,,14,Vikings,Seahawks,-3.5,,,7,21,Seahawks,Seahawks,Seahawks,CORRECT
+464,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Chargers_Chiefs_15,2018,,15,Chargers,Chiefs,-3.5,,,29,28,Chargers,Chargers,Chiefs,INCORRECT
+465,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Browns_Broncos_15,2018,,15,Browns,Broncos,-3.5,,,17,16,Browns,Browns,Browns,CORRECT
+466,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Texans_Jets_15,2018,,15,Texans,Jets,6.5,,,29,22,Texans,Texans,Texans,CORRECT
+467,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Titans_Giants_15,2018,,15,Titans,Giants,-2.5,,,17,0,Titans,Titans,Titans,CORRECT
+468,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Raiders_Bengals_15,2018,,15,Raiders,Bengals,-2.5,,,16,30,Bengals,Bengals,Bengals,CORRECT
+469,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Buccaneers_Ravens_15,2018,,15,Buccaneers,Ravens,-7.5,,,12,20,Ravens,Ravens,Buccaneers,INCORRECT
+470,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Redskins_Jaguars_15,2018,,15,Redskins,Jaguars,-6.5,,,16,13,Redskins,Redskins,Jaguars,INCORRECT
+471,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cowboys_Colts_15,2018,,15,Cowboys,Colts,-2.5,,,0,23,Colts,Colts,Colts,CORRECT
+472,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Cardinals_Falcons_15,2018,,15,Cardinals,Falcons,-8.5,,,14,40,Falcons,Falcons,Falcons,CORRECT
+473,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Lions_Bills_15,2018,,15,Lions,Bills,-2.5,,,13,14,Bills,Lions,Lions,CORRECT
+474,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Dolphins_Vikings_15,2018,,15,Dolphins,Vikings,-6.5,,,17,41,Vikings,Vikings,Vikings,CORRECT
+475,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Packers_Bears_15,2018,,15,Packers,Bears,-5.5,,,17,24,Bears,Bears,Bears,CORRECT
+476,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Seahawks_49ers_15,2018,,15,Seahawks,49ers,5.5,,,23,26,49ers,49ers,Seahawks,INCORRECT
+477,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Patriots_Steelers_15,2018,,15,Patriots,Steelers,1.5,,,10,17,Steelers,Steelers,Patriots,INCORRECT
+478,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Eagles_Rams_15,2018,,15,Eagles,Rams,-9.5,,,30,23,Eagles,Eagles,Eagles,CORRECT
+479,Liam_2018,Liam_2018,TheMightyHokie,{4F664619-DA23-491C-9924-11D21D9A36A1},2018_Saints_Panthers_15,2018,,15,Saints,Panthers,6.5,,,12,9,Saints,Panthers,Panthers,CORRECT
+480,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Falcons_Eagles_1,2018,,1,Falcons,Eagles,-3.5,,,12,18,Eagles,Eagles,Falcons,INCORRECT
+481,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bills_Ravens_1,2018,,1,Bills,Ravens,-5.5,,,3,47,Ravens,Ravens,Ravens,CORRECT
+482,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bengals_Colts_1,2018,,1,Bengals,Colts,-3.5,,,34,23,Bengals,Bengals,Bengals,CORRECT
+483,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Steelers_Browns_1,2018,,1,Steelers,Browns,6.5,,,21,21,,Browns,Steelers,INCORRECT
+484,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Titans_Dolphins_1,2018,,1,Titans,Dolphins,1.5,,,20,27,Dolphins,Dolphins,Titans,INCORRECT
+485,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_49ers_Vikings_1,2018,,1,49ers,Vikings,-5.5,,,16,24,Vikings,Vikings,Vikings,CORRECT
+486,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Texans_Patriots_1,2018,,1,Texans,Patriots,-6.5,,,20,27,Patriots,Patriots,Texans,INCORRECT
+487,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Buccaneers_Saints_1,2018,,1,Buccaneers,Saints,-9.5,,,48,40,Buccaneers,Buccaneers,Saints,INCORRECT
+488,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jaguars_Giants_1,2018,,1,Jaguars,Giants,2.5,,,20,15,Jaguars,Jaguars,Jaguars,CORRECT
+489,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chiefs_Chargers_1,2018,,1,Chiefs,Chargers,-3.5,,,38,28,Chiefs,Chiefs,Chargers,INCORRECT
+490,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cowboys_Panthers_1,2018,,1,Cowboys,Panthers,-2.5,,,8,16,Panthers,Panthers,Panthers,CORRECT
+491,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Seahawks_Broncos_1,2018,,1,Seahawks,Broncos,-2.5,,,24,27,Broncos,Broncos,Broncos,CORRECT
+492,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Redskins_Cardinals_1,2018,,1,Redskins,Cardinals,-0.5,,,24,6,Redskins,Redskins,Cardinals,INCORRECT
+493,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bears_Packers_1,2018,,1,Bears,Packers,-8.5,,,23,24,Packers,Bears,Bears,CORRECT
+494,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jets_Lions_1,2018,,1,Jets,Lions,-6.5,,,48,17,Jets,Jets,Lions,INCORRECT
+495,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Rams_Raiders_1,2018,,1,Rams,Raiders,2.5,,,33,13,Rams,Rams,Rams,CORRECT
+496,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Ravens_Bengals_2,2018,,2,Ravens,Bengals,0.5,,,23,34,Bengals,Bengals,Ravens,INCORRECT
+497,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Panthers_Falcons_2,2018,,2,Panthers,Falcons,-5.5,,,24,31,Falcons,Falcons,Falcons,CORRECT
+498,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chargers_Bills_2,2018,,2,Chargers,Bills,7.5,,,31,20,Chargers,Chargers,Chargers,CORRECT
+499,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Browns_Saints_2,2018,,2,Browns,Saints,-8.5,,,18,21,Saints,Browns,Saints,INCORRECT
+500,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Vikings_Packers_2,2018,,2,Vikings,Packers,-0.5,,,29,29,,Vikings,Vikings,CORRECT
+501,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Texans_Titans_2,2018,,2,Texans,Titans,2.5,,,17,20,Titans,Titans,Texans,INCORRECT
+502,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Colts_Redskins_2,2018,,2,Colts,Redskins,-5.5,,,21,9,Colts,Colts,Redskins,INCORRECT
+503,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chiefs_Steelers_2,2018,,2,Chiefs,Steelers,-5.5,,,42,37,Chiefs,Chiefs,Chiefs,CORRECT
+504,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Dolphins_Jets_2,2018,,2,Dolphins,Jets,-2.5,,,20,12,Dolphins,Dolphins,Jets,INCORRECT
+505,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Eagles_Buccaneers_2,2018,,2,Eagles,Buccaneers,3.5,,,21,27,Buccaneers,Buccaneers,Eagles,INCORRECT
+506,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Lions_49ers_2,2018,,2,Lions,49ers,-5.5,,,27,30,49ers,Lions,Lions,CORRECT
+507,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cardinals_Rams_2,2018,,2,Cardinals,Rams,-12.5,,,0,34,Rams,Rams,Rams,CORRECT
+508,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Raiders_Broncos_2,2018,,2,Raiders,Broncos,-5.5,,,19,20,Broncos,Raiders,Broncos,INCORRECT
+509,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Patriots_Jaguars_2,2018,,2,Patriots,Jaguars,2.5,,,20,31,Jaguars,Jaguars,Jaguars,CORRECT
+510,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Giants_Cowboys_2,2018,,2,Giants,Cowboys,-2.5,,,13,20,Cowboys,Cowboys,Giants,INCORRECT
+511,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Seahawks_Bears_2,2018,,2,Seahawks,Bears,-3.5,,,17,24,Bears,Bears,Bears,CORRECT
+512,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jets_Browns_3,2018,,3,Jets,Browns,-3.5,,,17,21,Browns,Browns,Browns,CORRECT
+513,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Saints_Falcons_3,2018,,3,Saints,Falcons,-3.5,,,43,37,Saints,Saints,Saints,CORRECT
+514,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bills_Vikings_3,2018,,3,Bills,Vikings,-16.5,,,27,6,Bills,Bills,Vikings,INCORRECT
+515,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bengals_Panthers_3,2018,,3,Bengals,Panthers,-2.5,,,21,31,Panthers,Panthers,Panthers,CORRECT
+516,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Broncos_Ravens_3,2018,,3,Broncos,Ravens,-4.5,,,14,27,Ravens,Ravens,Broncos,INCORRECT
+517,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Packers_Redskins_3,2018,,3,Packers,Redskins,2.5,,,17,31,Redskins,Redskins,Packers,INCORRECT
+518,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Titans_Jaguars_3,2018,,3,Titans,Jaguars,-7.5,,,9,6,Titans,Titans,Jaguars,INCORRECT
+519,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Colts_Eagles_3,2018,,3,Colts,Eagles,-6.5,,,16,20,Eagles,Colts,Eagles,INCORRECT
+520,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_49ers_Chiefs_3,2018,,3,49ers,Chiefs,-6.5,,,27,38,Chiefs,Chiefs,Chiefs,CORRECT
+521,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Raiders_Dolphins_3,2018,,3,Raiders,Dolphins,-3.5,,,20,28,Dolphins,Dolphins,Raiders,INCORRECT
+522,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Giants_Texans_3,2018,,3,Giants,Texans,-5.5,,,27,22,Giants,Giants,Texans,INCORRECT
+523,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chargers_Rams_3,2018,,3,Chargers,Rams,-6.5,,,23,35,Rams,Rams,Rams,CORRECT
+524,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bears_Cardinals_3,2018,,3,Bears,Cardinals,4.5,,,16,14,Bears,Cardinals,Bears,INCORRECT
+525,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cowboys_Seahawks_3,2018,,3,Cowboys,Seahawks,-2.5,,,13,24,Seahawks,Seahawks,Cowboys,INCORRECT
+526,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Patriots_Lions_3,2018,,3,Patriots,Lions,6.5,,,10,26,Lions,Lions,Patriots,INCORRECT
+527,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Steelers_Buccaneers_3,2018,,3,Steelers,Buccaneers,1.5,,,30,27,Steelers,Steelers,Steelers,CORRECT
+528,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Vikings_Rams_4,2018,,4,Vikings,Rams,-6.5,,,31,38,Rams,Rams,Rams,CORRECT
+529,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bengals_Falcons_4,2018,,4,Bengals,Falcons,-5.5,,,37,36,Bengals,Bengals,Falcons,INCORRECT
+530,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bills_Packers_4,2018,,4,Bills,Packers,-10.5,,,0,22,Packers,Packers,Packers,CORRECT
+531,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Buccaneers_Bears_4,2018,,4,Buccaneers,Bears,-2.5,,,10,48,Bears,Bears,Buccaneers,INCORRECT
+532,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Lions_Cowboys_4,2018,,4,Lions,Cowboys,-2.5,,,24,26,Cowboys,Lions,Lions,CORRECT
+533,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Eagles_Titans_4,2018,,4,Eagles,Titans,3.5,,,23,26,Titans,Titans,Eagles,INCORRECT
+534,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Texans_Colts_4,2018,,4,Texans,Colts,-0.5,,,37,34,Texans,Texans,Texans,CORRECT
+535,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Dolphins_Patriots_4,2018,,4,Dolphins,Patriots,-6.5,,,7,38,Patriots,Patriots,Dolphins,INCORRECT
+536,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jets_Jaguars_4,2018,,4,Jets,Jaguars,-7.5,,,12,31,Jaguars,Jaguars,Jaguars,CORRECT
+537,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Browns_Raiders_4,2018,,4,Browns,Raiders,-2.5,,,42,45,Raiders,Raiders,Browns,INCORRECT
+538,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Seahawks_Cardinals_4,2018,,4,Seahawks,Cardinals,3.5,,,20,17,Seahawks,Cardinals,Seahawks,INCORRECT
+539,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Saints_Giants_4,2018,,4,Saints,Giants,3.5,,,33,18,Saints,Saints,Saints,CORRECT
+540,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_49ers_Chargers_4,2018,,4,49ers,Chargers,-10.5,,,27,29,Chargers,49ers,Chargers,INCORRECT
+541,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Ravens_Steelers_4,2018,,4,Ravens,Steelers,-3.5,,,26,14,Ravens,Ravens,Steelers,INCORRECT
+542,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chiefs_Broncos_4,2018,,4,Chiefs,Broncos,5.5,,,27,23,Chiefs,Broncos,Chiefs,INCORRECT
+543,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Colts_Patriots_5,2018,,5,Colts,Patriots,-10.5,,,24,38,Patriots,Patriots,Patriots,CORRECT
+544,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Falcons_Steelers_5,2018,,5,Falcons,Steelers,-3.5,,,17,41,Steelers,Steelers,Falcons,INCORRECT
+545,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Titans_Bills_5,2018,,5,Titans,Bills,3.5,,,12,13,Bills,Bills,Titans,INCORRECT
+546,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Dolphins_Bengals_5,2018,,5,Dolphins,Bengals,-6.5,,,17,27,Bengals,Bengals,Bengals,CORRECT
+547,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Ravens_Browns_5,2018,,5,Ravens,Browns,2.5,,,9,12,Browns,Browns,Ravens,INCORRECT
+548,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Broncos_Jets_5,2018,,5,Broncos,Jets,-0.5,,,16,34,Jets,Jets,Jets,CORRECT
+549,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Packers_Lions_5,2018,,5,Packers,Lions,1.5,,,23,31,Lions,Lions,Packers,INCORRECT
+550,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jaguars_Chiefs_5,2018,,5,Jaguars,Chiefs,-3.5,,,14,30,Chiefs,Chiefs,Chiefs,CORRECT
+551,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Giants_Panthers_5,2018,,5,Giants,Panthers,-6.5,,,31,33,Panthers,Giants,Giants,CORRECT
+552,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Raiders_Chargers_5,2018,,5,Raiders,Chargers,-5.5,,,10,26,Chargers,Chargers,Chargers,CORRECT
+553,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Rams_Seahawks_5,2018,,5,Rams,Seahawks,7.5,,,33,31,Rams,Seahawks,Rams,INCORRECT
+554,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Vikings_Eagles_5,2018,,5,Vikings,Eagles,-3.5,,,23,21,Vikings,Vikings,Vikings,CORRECT
+555,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cardinals_49ers_5,2018,,5,Cardinals,49ers,-4.5,,,28,18,Cardinals,Cardinals,49ers,INCORRECT
+556,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cowboys_Texans_5,2018,,5,Cowboys,Texans,-3.5,,,16,19,Texans,Cowboys,Texans,INCORRECT
+557,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Redskins_Saints_5,2018,,5,Redskins,Saints,-6.5,,,19,43,Saints,Saints,Saints,CORRECT
+558,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Eagles_Giants_6,2018,,6,Eagles,Giants,2.5,,,34,13,Eagles,Eagles,Giants,INCORRECT
+559,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Steelers_Bengals_6,2018,,6,Steelers,Bengals,-2.5,,,28,21,Steelers,Steelers,Bengals,INCORRECT
+560,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Panthers_Redskins_6,2018,,6,Panthers,Redskins,-1.5,,,17,23,Redskins,Redskins,Panthers,INCORRECT
+561,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Buccaneers_Falcons_6,2018,,6,Buccaneers,Falcons,-3.5,,,29,34,Falcons,Falcons,Falcons,CORRECT
+562,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bills_Texans_6,2018,,6,Bills,Texans,-7.5,,,13,20,Texans,Bills,Texans,INCORRECT
+563,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chargers_Browns_6,2018,,6,Chargers,Browns,0.5,,,38,14,Chargers,Chargers,Chargers,CORRECT
+564,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Seahawks_Raiders_6,2018,,6,Seahawks,Raiders,2.5,,,27,3,Seahawks,Seahawks,Seahawks,CORRECT
+565,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bears_Dolphins_6,2018,,6,Bears,Dolphins,2.5,,,28,31,Dolphins,Dolphins,Bears,INCORRECT
+566,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cardinals_Vikings_6,2018,,6,Cardinals,Vikings,-10.5,,,17,27,Vikings,Cardinals,Vikings,INCORRECT
+567,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Colts_Jets_6,2018,,6,Colts,Jets,-2.5,,,34,42,Jets,Jets,Colts,INCORRECT
+568,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Rams_Broncos_6,2018,,6,Rams,Broncos,6.5,,,23,20,Rams,Broncos,Rams,INCORRECT
+569,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jaguars_Cowboys_6,2018,,6,Jaguars,Cowboys,2.5,,,7,40,Cowboys,Cowboys,Jaguars,INCORRECT
+570,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Ravens_Titans_6,2018,,6,Ravens,Titans,2.5,,,21,0,Ravens,Ravens,Ravens,CORRECT
+571,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chiefs_Patriots_6,2018,,6,Chiefs,Patriots,-3.5,,,40,43,Patriots,Chiefs,Chiefs,CORRECT
+572,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_49ers_Packers_6,2018,,6,49ers,Packers,-9.5,,,30,33,Packers,49ers,Packers,INCORRECT
+573,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Broncos_Cardinals_7,2018,,7,Broncos,Cardinals,2.5,,,45,10,Broncos,Broncos,Cardinals,INCORRECT
+574,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Titans_Chargers_7,2018,,7,Titans,Chargers,-6.5,,,19,20,Chargers,Titans,Chargers,INCORRECT
+575,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Lions_Dolphins_7,2018,,7,Lions,Dolphins,0.5,,,32,21,Lions,Lions,Lions,CORRECT
+576,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Vikings_Jets_7,2018,,7,Vikings,Jets,3.5,,,37,17,Vikings,Vikings,Vikings,CORRECT
+577,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Patriots_Bears_7,2018,,7,Patriots,Bears,3.5,,,38,31,Patriots,Patriots,Patriots,CORRECT
+578,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Texans_Jaguars_7,2018,,7,Texans,Jaguars,-4.5,,,20,7,Texans,Texans,Jaguars,INCORRECT
+579,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Panthers_Eagles_7,2018,,7,Panthers,Eagles,-4.5,,,21,17,Panthers,Panthers,Eagles,INCORRECT
+580,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bills_Colts_7,2018,,7,Bills,Colts,-6.5,,,5,37,Colts,Colts,Colts,CORRECT
+581,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Browns_Buccaneers_7,2018,,7,Browns,Buccaneers,-3.5,,,23,26,Buccaneers,Browns,Browns,CORRECT
+582,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bengals_Chiefs_7,2018,,7,Bengals,Chiefs,-5.5,,,10,45,Chiefs,Chiefs,Chiefs,CORRECT
+583,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Saints_Ravens_7,2018,,7,Saints,Ravens,-2.5,,,24,23,Saints,Saints,Saints,CORRECT
+584,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cowboys_Redskins_7,2018,,7,Cowboys,Redskins,-1.5,,,17,20,Redskins,Redskins,Redskins,CORRECT
+585,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Rams_49ers_7,2018,,7,Rams,49ers,10.5,,,39,10,Rams,Rams,Rams,CORRECT
+586,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Giants_Falcons_7,2018,,7,Giants,Falcons,-6.5,,,20,23,Falcons,Giants,Falcons,INCORRECT
+587,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Dolphins_Texans_8,2018,,8,Dolphins,Texans,-7.5,,,23,42,Texans,Texans,Dolphins,INCORRECT
+588,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Eagles_Jaguars_8,2018,,8,Eagles,Jaguars,2.5,,,24,18,Eagles,Eagles,Eagles,CORRECT
+589,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Browns_Steelers_8,2018,,8,Browns,Steelers,-8.5,,,18,33,Steelers,Steelers,Steelers,CORRECT
+590,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Broncos_Chiefs_8,2018,,8,Broncos,Chiefs,-10.5,,,23,30,Chiefs,Broncos,Chiefs,INCORRECT
+591,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jets_Bears_8,2018,,8,Jets,Bears,-6.5,,,10,24,Bears,Bears,Bears,CORRECT
+592,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Redskins_Giants_8,2018,,8,Redskins,Giants,0.5,,,20,13,Redskins,Redskins,Redskins,CORRECT
+593,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Buccaneers_Bengals_8,2018,,8,Buccaneers,Bengals,-4.5,,,34,37,Bengals,Buccaneers,Bengals,INCORRECT
+594,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Ravens_Panthers_8,2018,,8,Ravens,Panthers,1.5,,,21,36,Panthers,Panthers,Ravens,INCORRECT
+595,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Seahawks_Lions_8,2018,,8,Seahawks,Lions,-2.5,,,28,14,Seahawks,Seahawks,Seahawks,CORRECT
+596,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Colts_Raiders_8,2018,,8,Colts,Raiders,2.5,,,42,28,Colts,Colts,Colts,CORRECT
+597,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Packers_Rams_8,2018,,8,Packers,Rams,-9.5,,,27,29,Rams,Packers,Rams,INCORRECT
+598,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_49ers_Cardinals_8,2018,,8,49ers,Cardinals,-0.5,,,15,18,Cardinals,Cardinals,49ers,INCORRECT
+599,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Saints_Vikings_8,2018,,8,Saints,Vikings,-0.5,,,30,20,Saints,Saints,Saints,CORRECT
+600,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Patriots_Bills_8,2018,,8,Patriots,Bills,14.5,,,25,6,Patriots,Patriots,Patriots,CORRECT
+601,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Raiders_49ers_9,2018,,9,Raiders,49ers,-2.5,,,3,34,49ers,49ers,Raiders,INCORRECT
+602,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Lions_Vikings_9,2018,,9,Lions,Vikings,-4.5,,,9,24,Vikings,Vikings,Lions,INCORRECT
+603,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Falcons_Redskins_9,2018,,9,Falcons,Redskins,-1.5,,,38,14,Falcons,Falcons,Falcons,CORRECT
+604,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jets_Dolphins_9,2018,,9,Jets,Dolphins,-3.5,,,6,13,Dolphins,Dolphins,Dolphins,CORRECT
+605,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Steelers_Ravens_9,2018,,9,Steelers,Ravens,-2.5,,,23,16,Steelers,Steelers,Steelers,CORRECT
+606,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chiefs_Browns_9,2018,,9,Chiefs,Browns,8.5,,,37,21,Chiefs,Chiefs,Chiefs,CORRECT
+607,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Buccaneers_Panthers_9,2018,,9,Buccaneers,Panthers,-6.5,,,28,42,Panthers,Panthers,Buccaneers,INCORRECT
+608,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bears_Bills_9,2018,,9,Bears,Bills,8.5,,,41,9,Bears,Bears,Bears,CORRECT
+609,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Texans_Broncos_9,2018,,9,Texans,Broncos,-2.5,,,19,17,Texans,Texans,Texans,CORRECT
+610,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chargers_Seahawks_9,2018,,9,Chargers,Seahawks,-1.5,,,25,17,Chargers,Chargers,Chargers,CORRECT
+611,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Rams_Saints_9,2018,,9,Rams,Saints,-1.5,,,35,45,Saints,Saints,Rams,INCORRECT
+612,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Packers_Patriots_9,2018,,9,Packers,Patriots,-5.5,,,17,31,Patriots,Patriots,Patriots,CORRECT
+613,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Titans_Cowboys_9,2018,,9,Titans,Cowboys,-6.5,,,28,14,Titans,Titans,Cowboys,INCORRECT
+614,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Panthers_Steelers_10,2018,,10,Panthers,Steelers,-4.5,,,21,52,Steelers,Steelers,Steelers,CORRECT
+615,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cardinals_Chiefs_10,2018,,10,Cardinals,Chiefs,-16.5,,,14,26,Chiefs,Cardinals,Chiefs,INCORRECT
+616,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Lions_Bears_10,2018,,10,Lions,Bears,-6.5,,,22,34,Bears,Bears,Lions,INCORRECT
+617,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jaguars_Colts_10,2018,,10,Jaguars,Colts,-2.5,,,26,29,Colts,Colts,Colts,CORRECT
+618,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Dolphins_Packers_10,2018,,10,Dolphins,Packers,-9.5,,,12,31,Packers,Packers,Packers,CORRECT
+619,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Saints_Bengals_10,2018,,10,Saints,Bengals,4.5,,,51,14,Saints,Saints,Saints,CORRECT
+620,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Falcons_Browns_10,2018,,10,Falcons,Browns,4.5,,,16,28,Browns,Browns,Falcons,INCORRECT
+621,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Patriots_Titans_10,2018,,10,Patriots,Titans,7.5,,,10,34,Titans,Titans,Patriots,INCORRECT
+622,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Redskins_Buccaneers_10,2018,,10,Redskins,Buccaneers,-2.5,,,16,3,Redskins,Redskins,Buccaneers,INCORRECT
+623,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bills_Jets_10,2018,,10,Bills,Jets,-7.5,,,41,10,Bills,Bills,Bills,CORRECT
+624,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chargers_Raiders_10,2018,,10,Chargers,Raiders,9.5,,,20,6,Chargers,Chargers,Chargers,CORRECT
+625,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Seahawks_Rams_10,2018,,10,Seahawks,Rams,-9.5,,,31,36,Rams,Seahawks,Rams,INCORRECT
+626,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cowboys_Eagles_10,2018,,10,Cowboys,Eagles,-6.5,,,27,20,Cowboys,Cowboys,Eagles,INCORRECT
+627,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Giants_49ers_10,2018,,10,Giants,49ers,-2.5,,,27,23,Giants,Giants,49ers,INCORRECT
+628,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Packers_Seahawks_11,2018,,11,Packers,Seahawks,-2.5,,,24,27,Seahawks,Seahawks,Packers,INCORRECT
+629,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Panthers_Lions_11,2018,,11,Panthers,Lions,3.5,,,19,20,Lions,Lions,Panthers,INCORRECT
+630,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Buccaneers_Giants_11,2018,,11,Buccaneers,Giants,-0.5,,,35,38,Giants,Giants,Buccaneers,INCORRECT
+631,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bengals_Ravens_11,2018,,11,Bengals,Ravens,-3.5,,,21,24,Ravens,Bengals,Bengals,CORRECT
+632,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cowboys_Falcons_11,2018,,11,Cowboys,Falcons,-3.5,,,22,19,Cowboys,Cowboys,Falcons,INCORRECT
+633,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Vikings_Bears_11,2018,,11,Vikings,Bears,-2.5,,,20,25,Bears,Bears,Vikings,INCORRECT
+634,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Eagles_Saints_11,2018,,11,Eagles,Saints,-8.5,,,7,48,Saints,Saints,Saints,CORRECT
+635,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Titans_Colts_11,2018,,11,Titans,Colts,-2.5,,,10,38,Colts,Colts,Colts,CORRECT
+636,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Texans_Redskins_11,2018,,11,Texans,Redskins,2.5,,,23,21,Texans,Redskins,Texans,INCORRECT
+637,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Broncos_Chargers_11,2018,,11,Broncos,Chargers,-7.5,,,23,22,Broncos,Broncos,Chargers,INCORRECT
+638,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Raiders_Cardinals_11,2018,,11,Raiders,Cardinals,-3.5,,,23,21,Raiders,Raiders,Cardinals,INCORRECT
+639,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Steelers_Jaguars_11,2018,,11,Steelers,Jaguars,5.5,,,20,16,Steelers,Jaguars,Steelers,INCORRECT
+640,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chiefs_Rams_11,2018,,11,Chiefs,Rams,-2.5,,,51,54,Rams,Rams,Rams,CORRECT
+641,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bears_Lions_12,2018,,12,Bears,Lions,4.5,,,23,16,Bears,Bears,Lions,INCORRECT
+642,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Redskins_Cowboys_12,2018,,12,Redskins,Cowboys,7.5,,,23,31,Cowboys,Cowboys,Redskins,INCORRECT
+643,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Falcons_Saints_12,2018,,12,Falcons,Saints,13.5,,,17,31,Saints,Saints,Saints,CORRECT
+644,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Browns_Bengals_12,2018,,12,Browns,Bengals,-3.5,,,35,20,Browns,Browns,Bengals,INCORRECT
+645,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Seahawks_Panthers_12,2018,,12,Seahawks,Panthers,-3.5,,,30,27,Seahawks,Seahawks,Panthers,INCORRECT
+646,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jaguars_Bills_12,2018,,12,Jaguars,Bills,3.5,,,21,24,Bills,Bills,Jaguars,INCORRECT
+647,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Dolphins_Colts_12,2018,,12,Dolphins,Colts,-9.5,,,24,27,Colts,Dolphins,Colts,INCORRECT
+648,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Giants_Eagles_12,2018,,12,Giants,Eagles,-6.5,,,22,25,Eagles,Giants,Giants,CORRECT
+649,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Patriots_Jets_12,2018,,12,Patriots,Jets,9.5,,,27,13,Patriots,Patriots,Patriots,CORRECT
+650,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Raiders_Ravens_12,2018,,12,Raiders,Ravens,-10.5,,,17,34,Ravens,Ravens,Ravens,CORRECT
+651,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_49ers_Buccaneers_12,2018,,12,49ers,Buccaneers,-3.5,,,9,27,Buccaneers,Buccaneers,49ers,INCORRECT
+652,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cardinals_Chargers_12,2018,,12,Cardinals,Chargers,-12.5,,,10,45,Chargers,Chargers,Chargers,CORRECT
+653,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Steelers_Broncos_12,2018,,12,Steelers,Broncos,3.5,,,17,24,Broncos,Broncos,Steelers,INCORRECT
+654,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Packers_Vikings_12,2018,,12,Packers,Vikings,-3.5,,,17,24,Vikings,Vikings,Packers,INCORRECT
+655,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Titans_Texans_12,2018,,12,Titans,Texans,-6.5,,,17,34,Texans,Texans,Texans,CORRECT
+656,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Rams_Lions_13,2018,,13,Rams,Lions,9.5,,,30,16,Rams,Rams,Rams,CORRECT
+657,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bills_Dolphins_13,2018,,13,Bills,Dolphins,-5.5,,,17,21,Dolphins,Bills,Bills,CORRECT
+658,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chargers_Steelers_13,2018,,13,Chargers,Steelers,-3.5,,,33,30,Chargers,Chargers,Chargers,CORRECT
+659,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Panthers_Buccaneers_13,2018,,13,Panthers,Buccaneers,3.5,,,17,24,Buccaneers,Buccaneers,Panthers,INCORRECT
+660,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Bears_Giants_13,2018,,13,Bears,Giants,4.5,,,27,30,Giants,Giants,Bears,INCORRECT
+661,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Colts_Jaguars_13,2018,,13,Colts,Jaguars,3.5,,,0,6,Jaguars,Jaguars,Colts,INCORRECT
+662,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Browns_Texans_13,2018,,13,Browns,Texans,-6.5,,,13,29,Texans,Texans,Texans,CORRECT
+663,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cardinals_Packers_13,2018,,13,Cardinals,Packers,-14.5,,,20,17,Cardinals,Cardinals,Cardinals,CORRECT
+664,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Broncos_Bengals_13,2018,,13,Broncos,Bengals,3.5,,,24,10,Broncos,Broncos,Broncos,CORRECT
+665,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Ravens_Falcons_13,2018,,13,Ravens,Falcons,1.5,,,26,16,Ravens,Ravens,Falcons,INCORRECT
+666,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Jets_Titans_13,2018,,13,Jets,Titans,-9.5,,,22,26,Titans,Jets,Jets,CORRECT
+667,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chiefs_Raiders_13,2018,,13,Chiefs,Raiders,14.5,,,40,33,Chiefs,Raiders,Chiefs,INCORRECT
+668,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Vikings_Patriots_13,2018,,13,Vikings,Patriots,-3.5,,,10,24,Patriots,Patriots,Vikings,INCORRECT
+669,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_49ers_Seahawks_13,2018,,13,49ers,Seahawks,-10.5,,,16,43,Seahawks,Seahawks,Seahawks,CORRECT
+670,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Redskins_Eagles_13,2018,,13,Redskins,Eagles,-6.5,,,13,28,Eagles,Eagles,Eagles,CORRECT
+671,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Chargers_Chiefs_15,2018,,15,Chargers,Chiefs,-3.5,,,29,28,Chargers,Chargers,Chiefs,INCORRECT
+672,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Browns_Broncos_15,2018,,15,Browns,Broncos,-3.5,,,17,16,Browns,Browns,Browns,CORRECT
+673,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Texans_Jets_15,2018,,15,Texans,Jets,6.5,,,29,22,Texans,Texans,Texans,CORRECT
+674,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Titans_Giants_15,2018,,15,Titans,Giants,-2.5,,,17,0,Titans,Titans,Giants,INCORRECT
+675,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Raiders_Bengals_15,2018,,15,Raiders,Bengals,-2.5,,,16,30,Bengals,Bengals,Bengals,CORRECT
+676,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Buccaneers_Ravens_15,2018,,15,Buccaneers,Ravens,-7.5,,,12,20,Ravens,Ravens,Ravens,CORRECT
+677,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Redskins_Jaguars_15,2018,,15,Redskins,Jaguars,-6.5,,,16,13,Redskins,Redskins,Jaguars,INCORRECT
+678,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cowboys_Colts_15,2018,,15,Cowboys,Colts,-2.5,,,0,23,Colts,Colts,Cowboys,INCORRECT
+679,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Cardinals_Falcons_15,2018,,15,Cardinals,Falcons,-8.5,,,14,40,Falcons,Falcons,Falcons,CORRECT
+680,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Lions_Bills_15,2018,,15,Lions,Bills,-2.5,,,13,14,Bills,Lions,Bills,INCORRECT
+681,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Dolphins_Vikings_15,2018,,15,Dolphins,Vikings,-6.5,,,17,41,Vikings,Vikings,Vikings,CORRECT
+682,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Packers_Bears_15,2018,,15,Packers,Bears,-5.5,,,17,24,Bears,Bears,Bears,CORRECT
+683,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Seahawks_49ers_15,2018,,15,Seahawks,49ers,5.5,,,23,26,49ers,49ers,Seahawks,INCORRECT
+684,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Patriots_Steelers_15,2018,,15,Patriots,Steelers,1.5,,,10,17,Steelers,Steelers,Patriots,INCORRECT
+685,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Eagles_Rams_15,2018,,15,Eagles,Rams,-9.5,,,30,23,Eagles,Eagles,Rams,INCORRECT
+686,Vaishnav_2018,Vaishnav_2018,Vashy,{C343DBCF-B676-44AB-83DB-CFB67674AB40},2018_Saints_Panthers_15,2018,,15,Saints,Panthers,6.5,,,12,9,Saints,Panthers,Saints,INCORRECT
+687,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Falcons_Eagles_1,2018,,1,Falcons,Eagles,-3.5,,,12,18,Eagles,Eagles,Falcons,INCORRECT
+688,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bills_Ravens_1,2018,,1,Bills,Ravens,-5.5,,,3,47,Ravens,Ravens,Ravens,CORRECT
+689,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bengals_Colts_1,2018,,1,Bengals,Colts,-3.5,,,34,23,Bengals,Bengals,Colts,INCORRECT
+690,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Steelers_Browns_1,2018,,1,Steelers,Browns,6.5,,,21,21,,Browns,Browns,CORRECT
+691,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Titans_Dolphins_1,2018,,1,Titans,Dolphins,1.5,,,20,27,Dolphins,Dolphins,Dolphins,CORRECT
+692,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_49ers_Vikings_1,2018,,1,49ers,Vikings,-5.5,,,16,24,Vikings,Vikings,49ers,INCORRECT
+693,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Texans_Patriots_1,2018,,1,Texans,Patriots,-6.5,,,20,27,Patriots,Patriots,Texans,INCORRECT
+694,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Buccaneers_Saints_1,2018,,1,Buccaneers,Saints,-9.5,,,48,40,Buccaneers,Buccaneers,Buccaneers,CORRECT
+695,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jaguars_Giants_1,2018,,1,Jaguars,Giants,2.5,,,20,15,Jaguars,Jaguars,Giants,INCORRECT
+696,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chiefs_Chargers_1,2018,,1,Chiefs,Chargers,-3.5,,,38,28,Chiefs,Chiefs,Chargers,INCORRECT
+697,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cowboys_Panthers_1,2018,,1,Cowboys,Panthers,-2.5,,,8,16,Panthers,Panthers,Cowboys,INCORRECT
+698,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Seahawks_Broncos_1,2018,,1,Seahawks,Broncos,-2.5,,,24,27,Broncos,Broncos,Broncos,CORRECT
+699,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Redskins_Cardinals_1,2018,,1,Redskins,Cardinals,-0.5,,,24,6,Redskins,Redskins,Redskins,CORRECT
+700,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bears_Packers_1,2018,,1,Bears,Packers,-8.5,,,23,24,Packers,Bears,Packers,INCORRECT
+701,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jets_Lions_1,2018,,1,Jets,Lions,-6.5,,,48,17,Jets,Jets,Lions,INCORRECT
+702,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Rams_Raiders_1,2018,,1,Rams,Raiders,2.5,,,33,13,Rams,Rams,Rams,CORRECT
+703,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Ravens_Bengals_2,2018,,2,Ravens,Bengals,0.5,,,23,34,Bengals,Bengals,Ravens,INCORRECT
+704,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Panthers_Falcons_2,2018,,2,Panthers,Falcons,-5.5,,,24,31,Falcons,Falcons,Falcons,CORRECT
+705,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chargers_Bills_2,2018,,2,Chargers,Bills,7.5,,,31,20,Chargers,Chargers,Chargers,CORRECT
+706,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Browns_Saints_2,2018,,2,Browns,Saints,-8.5,,,18,21,Saints,Browns,Browns,CORRECT
+707,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Vikings_Packers_2,2018,,2,Vikings,Packers,-0.5,,,29,29,,Vikings,Vikings,CORRECT
+708,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Texans_Titans_2,2018,,2,Texans,Titans,2.5,,,17,20,Titans,Titans,Texans,INCORRECT
+709,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Colts_Redskins_2,2018,,2,Colts,Redskins,-5.5,,,21,9,Colts,Colts,Colts,CORRECT
+710,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chiefs_Steelers_2,2018,,2,Chiefs,Steelers,-5.5,,,42,37,Chiefs,Chiefs,Chiefs,CORRECT
+711,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Dolphins_Jets_2,2018,,2,Dolphins,Jets,-2.5,,,20,12,Dolphins,Dolphins,Jets,INCORRECT
+712,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Eagles_Buccaneers_2,2018,,2,Eagles,Buccaneers,3.5,,,21,27,Buccaneers,Buccaneers,Eagles,INCORRECT
+713,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Lions_49ers_2,2018,,2,Lions,49ers,-5.5,,,27,30,49ers,Lions,49ers,INCORRECT
+714,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cardinals_Rams_2,2018,,2,Cardinals,Rams,-12.5,,,0,34,Rams,Rams,Rams,CORRECT
+715,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Raiders_Broncos_2,2018,,2,Raiders,Broncos,-5.5,,,19,20,Broncos,Raiders,Broncos,INCORRECT
+716,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Patriots_Jaguars_2,2018,,2,Patriots,Jaguars,2.5,,,20,31,Jaguars,Jaguars,Patriots,INCORRECT
+717,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Giants_Cowboys_2,2018,,2,Giants,Cowboys,-2.5,,,13,20,Cowboys,Cowboys,Giants,INCORRECT
+718,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Seahawks_Bears_2,2018,,2,Seahawks,Bears,-3.5,,,17,24,Bears,Bears,Bears,CORRECT
+719,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jets_Browns_3,2018,,3,Jets,Browns,-3.5,,,17,21,Browns,Browns,Browns,CORRECT
+720,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Saints_Falcons_3,2018,,3,Saints,Falcons,-3.5,,,43,37,Saints,Saints,Saints,CORRECT
+721,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bills_Vikings_3,2018,,3,Bills,Vikings,-16.5,,,27,6,Bills,Bills,Vikings,INCORRECT
+722,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bengals_Panthers_3,2018,,3,Bengals,Panthers,-2.5,,,21,31,Panthers,Panthers,Bengals,INCORRECT
+723,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Broncos_Ravens_3,2018,,3,Broncos,Ravens,-4.5,,,14,27,Ravens,Ravens,Ravens,CORRECT
+724,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Packers_Redskins_3,2018,,3,Packers,Redskins,2.5,,,17,31,Redskins,Redskins,Packers,INCORRECT
+725,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Titans_Jaguars_3,2018,,3,Titans,Jaguars,-7.5,,,9,6,Titans,Titans,Titans,CORRECT
+726,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Colts_Eagles_3,2018,,3,Colts,Eagles,-6.5,,,16,20,Eagles,Colts,Eagles,INCORRECT
+727,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_49ers_Chiefs_3,2018,,3,49ers,Chiefs,-6.5,,,27,38,Chiefs,Chiefs,49ers,INCORRECT
+728,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Raiders_Dolphins_3,2018,,3,Raiders,Dolphins,-3.5,,,20,28,Dolphins,Dolphins,Dolphins,CORRECT
+729,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Giants_Texans_3,2018,,3,Giants,Texans,-5.5,,,27,22,Giants,Giants,Texans,INCORRECT
+730,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chargers_Rams_3,2018,,3,Chargers,Rams,-6.5,,,23,35,Rams,Rams,Rams,CORRECT
+731,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bears_Cardinals_3,2018,,3,Bears,Cardinals,4.5,,,16,14,Bears,Cardinals,Bears,INCORRECT
+732,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cowboys_Seahawks_3,2018,,3,Cowboys,Seahawks,-2.5,,,13,24,Seahawks,Seahawks,Cowboys,INCORRECT
+733,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Patriots_Lions_3,2018,,3,Patriots,Lions,6.5,,,10,26,Lions,Lions,Patriots,INCORRECT
+734,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Steelers_Buccaneers_3,2018,,3,Steelers,Buccaneers,1.5,,,30,27,Steelers,Steelers,Steelers,CORRECT
+735,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Vikings_Rams_4,2018,,4,Vikings,Rams,-6.5,,,31,38,Rams,Rams,Rams,CORRECT
+736,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bengals_Falcons_4,2018,,4,Bengals,Falcons,-5.5,,,37,36,Bengals,Bengals,Bengals,CORRECT
+737,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bills_Packers_4,2018,,4,Bills,Packers,-10.5,,,0,22,Packers,Packers,Bills,INCORRECT
+738,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Buccaneers_Bears_4,2018,,4,Buccaneers,Bears,-2.5,,,10,48,Bears,Bears,Buccaneers,INCORRECT
+739,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Lions_Cowboys_4,2018,,4,Lions,Cowboys,-2.5,,,24,26,Cowboys,Lions,Lions,CORRECT
+740,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Eagles_Titans_4,2018,,4,Eagles,Titans,3.5,,,23,26,Titans,Titans,Eagles,INCORRECT
+741,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Texans_Colts_4,2018,,4,Texans,Colts,-0.5,,,37,34,Texans,Texans,Texans,CORRECT
+742,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Dolphins_Patriots_4,2018,,4,Dolphins,Patriots,-6.5,,,7,38,Patriots,Patriots,Dolphins,INCORRECT
+743,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jets_Jaguars_4,2018,,4,Jets,Jaguars,-7.5,,,12,31,Jaguars,Jaguars,Jaguars,CORRECT
+744,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Browns_Raiders_4,2018,,4,Browns,Raiders,-2.5,,,42,45,Raiders,Raiders,Browns,INCORRECT
+745,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Seahawks_Cardinals_4,2018,,4,Seahawks,Cardinals,3.5,,,20,17,Seahawks,Cardinals,Seahawks,INCORRECT
+746,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Saints_Giants_4,2018,,4,Saints,Giants,3.5,,,33,18,Saints,Saints,Saints,CORRECT
+747,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_49ers_Chargers_4,2018,,4,49ers,Chargers,-10.5,,,27,29,Chargers,49ers,Chargers,INCORRECT
+748,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Ravens_Steelers_4,2018,,4,Ravens,Steelers,-3.5,,,26,14,Ravens,Ravens,Ravens,CORRECT
+749,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chiefs_Broncos_4,2018,,4,Chiefs,Broncos,5.5,,,27,23,Chiefs,Broncos,Chiefs,INCORRECT
+750,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Colts_Patriots_5,2018,,5,Colts,Patriots,-10.5,,,24,38,Patriots,Patriots,Colts,INCORRECT
+751,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Falcons_Steelers_5,2018,,5,Falcons,Steelers,-3.5,,,17,41,Steelers,Steelers,Falcons,INCORRECT
+752,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Titans_Bills_5,2018,,5,Titans,Bills,3.5,,,12,13,Bills,Bills,Titans,INCORRECT
+753,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Dolphins_Bengals_5,2018,,5,Dolphins,Bengals,-6.5,,,17,27,Bengals,Bengals,Bengals,CORRECT
+754,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Ravens_Browns_5,2018,,5,Ravens,Browns,2.5,,,9,12,Browns,Browns,Browns,CORRECT
+755,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Broncos_Jets_5,2018,,5,Broncos,Jets,-0.5,,,16,34,Jets,Jets,Broncos,INCORRECT
+756,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Packers_Lions_5,2018,,5,Packers,Lions,1.5,,,23,31,Lions,Lions,Packers,INCORRECT
+757,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jaguars_Chiefs_5,2018,,5,Jaguars,Chiefs,-3.5,,,14,30,Chiefs,Chiefs,Chiefs,CORRECT
+758,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Giants_Panthers_5,2018,,5,Giants,Panthers,-6.5,,,31,33,Panthers,Giants,Giants,CORRECT
+759,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Raiders_Chargers_5,2018,,5,Raiders,Chargers,-5.5,,,10,26,Chargers,Chargers,Raiders,INCORRECT
+760,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Rams_Seahawks_5,2018,,5,Rams,Seahawks,7.5,,,33,31,Rams,Seahawks,Rams,INCORRECT
+761,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Vikings_Eagles_5,2018,,5,Vikings,Eagles,-3.5,,,23,21,Vikings,Vikings,Vikings,CORRECT
+762,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cardinals_49ers_5,2018,,5,Cardinals,49ers,-4.5,,,28,18,Cardinals,Cardinals,Cardinals,CORRECT
+763,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cowboys_Texans_5,2018,,5,Cowboys,Texans,-3.5,,,16,19,Texans,Cowboys,Cowboys,CORRECT
+764,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Redskins_Saints_5,2018,,5,Redskins,Saints,-6.5,,,19,43,Saints,Saints,Saints,CORRECT
+765,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Eagles_Giants_6,2018,,6,Eagles,Giants,2.5,,,34,13,Eagles,Eagles,Eagles,CORRECT
+766,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Steelers_Bengals_6,2018,,6,Steelers,Bengals,-2.5,,,28,21,Steelers,Steelers,Steelers,CORRECT
+767,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Panthers_Redskins_6,2018,,6,Panthers,Redskins,-1.5,,,17,23,Redskins,Redskins,Panthers,INCORRECT
+768,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Buccaneers_Falcons_6,2018,,6,Buccaneers,Falcons,-3.5,,,29,34,Falcons,Falcons,Falcons,CORRECT
+769,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bills_Texans_6,2018,,6,Bills,Texans,-7.5,,,13,20,Texans,Bills,Bills,CORRECT
+770,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chargers_Browns_6,2018,,6,Chargers,Browns,0.5,,,38,14,Chargers,Chargers,Browns,INCORRECT
+771,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Seahawks_Raiders_6,2018,,6,Seahawks,Raiders,2.5,,,27,3,Seahawks,Seahawks,Raiders,INCORRECT
+772,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bears_Dolphins_6,2018,,6,Bears,Dolphins,2.5,,,28,31,Dolphins,Dolphins,Bears,INCORRECT
+773,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cardinals_Vikings_6,2018,,6,Cardinals,Vikings,-10.5,,,17,27,Vikings,Cardinals,Cardinals,CORRECT
+774,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Colts_Jets_6,2018,,6,Colts,Jets,-2.5,,,34,42,Jets,Jets,Jets,CORRECT
+775,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Rams_Broncos_6,2018,,6,Rams,Broncos,6.5,,,23,20,Rams,Broncos,Rams,INCORRECT
+776,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jaguars_Cowboys_6,2018,,6,Jaguars,Cowboys,2.5,,,7,40,Cowboys,Cowboys,Jaguars,INCORRECT
+777,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Ravens_Titans_6,2018,,6,Ravens,Titans,2.5,,,21,0,Ravens,Ravens,Ravens,CORRECT
+778,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chiefs_Patriots_6,2018,,6,Chiefs,Patriots,-3.5,,,40,43,Patriots,Chiefs,Chiefs,CORRECT
+779,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_49ers_Packers_6,2018,,6,49ers,Packers,-9.5,,,30,33,Packers,49ers,49ers,CORRECT
+780,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Broncos_Cardinals_7,2018,,7,Broncos,Cardinals,2.5,,,45,10,Broncos,Broncos,Broncos,CORRECT
+781,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Titans_Chargers_7,2018,,7,Titans,Chargers,-6.5,,,19,20,Chargers,Titans,Titans,CORRECT
+782,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Lions_Dolphins_7,2018,,7,Lions,Dolphins,0.5,,,32,21,Lions,Lions,Lions,CORRECT
+783,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Vikings_Jets_7,2018,,7,Vikings,Jets,3.5,,,37,17,Vikings,Vikings,Vikings,CORRECT
+784,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Patriots_Bears_7,2018,,7,Patriots,Bears,3.5,,,38,31,Patriots,Patriots,Patriots,CORRECT
+785,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Texans_Jaguars_7,2018,,7,Texans,Jaguars,-4.5,,,20,7,Texans,Texans,Texans,CORRECT
+786,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Panthers_Eagles_7,2018,,7,Panthers,Eagles,-4.5,,,21,17,Panthers,Panthers,Panthers,CORRECT
+787,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bills_Colts_7,2018,,7,Bills,Colts,-6.5,,,5,37,Colts,Colts,Colts,CORRECT
+788,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Browns_Buccaneers_7,2018,,7,Browns,Buccaneers,-3.5,,,23,26,Buccaneers,Browns,Browns,CORRECT
+789,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bengals_Chiefs_7,2018,,7,Bengals,Chiefs,-5.5,,,10,45,Chiefs,Chiefs,Chiefs,CORRECT
+790,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Saints_Ravens_7,2018,,7,Saints,Ravens,-2.5,,,24,23,Saints,Saints,Saints,CORRECT
+791,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cowboys_Redskins_7,2018,,7,Cowboys,Redskins,-1.5,,,17,20,Redskins,Redskins,Redskins,CORRECT
+792,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Rams_49ers_7,2018,,7,Rams,49ers,10.5,,,39,10,Rams,Rams,Rams,CORRECT
+793,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Giants_Falcons_7,2018,,7,Giants,Falcons,-6.5,,,20,23,Falcons,Giants,Falcons,INCORRECT
+794,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Dolphins_Texans_8,2018,,8,Dolphins,Texans,-7.5,,,23,42,Texans,Texans,Dolphins,INCORRECT
+795,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Eagles_Jaguars_8,2018,,8,Eagles,Jaguars,2.5,,,24,18,Eagles,Eagles,Eagles,CORRECT
+796,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Browns_Steelers_8,2018,,8,Browns,Steelers,-8.5,,,18,33,Steelers,Steelers,Browns,INCORRECT
+797,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Broncos_Chiefs_8,2018,,8,Broncos,Chiefs,-10.5,,,23,30,Chiefs,Broncos,Chiefs,INCORRECT
+798,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jets_Bears_8,2018,,8,Jets,Bears,-6.5,,,10,24,Bears,Bears,Bears,CORRECT
+799,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Redskins_Giants_8,2018,,8,Redskins,Giants,0.5,,,20,13,Redskins,Redskins,Redskins,CORRECT
+800,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Buccaneers_Bengals_8,2018,,8,Buccaneers,Bengals,-4.5,,,34,37,Bengals,Buccaneers,Bengals,INCORRECT
+801,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Ravens_Panthers_8,2018,,8,Ravens,Panthers,1.5,,,21,36,Panthers,Panthers,Panthers,CORRECT
+802,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Seahawks_Lions_8,2018,,8,Seahawks,Lions,-2.5,,,28,14,Seahawks,Seahawks,Seahawks,CORRECT
+803,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Colts_Raiders_8,2018,,8,Colts,Raiders,2.5,,,42,28,Colts,Colts,Raiders,INCORRECT
+804,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Packers_Rams_8,2018,,8,Packers,Rams,-9.5,,,27,29,Rams,Packers,Packers,CORRECT
+805,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_49ers_Cardinals_8,2018,,8,49ers,Cardinals,-0.5,,,15,18,Cardinals,Cardinals,49ers,INCORRECT
+806,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Saints_Vikings_8,2018,,8,Saints,Vikings,-0.5,,,30,20,Saints,Saints,Saints,CORRECT
+807,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Patriots_Bills_8,2018,,8,Patriots,Bills,14.5,,,25,6,Patriots,Patriots,Patriots,CORRECT
+808,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Raiders_49ers_9,2018,,9,Raiders,49ers,-2.5,,,3,34,49ers,49ers,49ers,CORRECT
+809,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Lions_Vikings_9,2018,,9,Lions,Vikings,-4.5,,,9,24,Vikings,Vikings,Lions,INCORRECT
+810,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Falcons_Redskins_9,2018,,9,Falcons,Redskins,-1.5,,,38,14,Falcons,Falcons,Falcons,CORRECT
+811,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jets_Dolphins_9,2018,,9,Jets,Dolphins,-3.5,,,6,13,Dolphins,Dolphins,Dolphins,CORRECT
+812,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Steelers_Ravens_9,2018,,9,Steelers,Ravens,-2.5,,,23,16,Steelers,Steelers,Steelers,CORRECT
+813,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chiefs_Browns_9,2018,,9,Chiefs,Browns,8.5,,,37,21,Chiefs,Chiefs,Chiefs,CORRECT
+814,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Buccaneers_Panthers_9,2018,,9,Buccaneers,Panthers,-6.5,,,28,42,Panthers,Panthers,Buccaneers,INCORRECT
+815,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bears_Bills_9,2018,,9,Bears,Bills,8.5,,,41,9,Bears,Bears,Bears,CORRECT
+816,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Texans_Broncos_9,2018,,9,Texans,Broncos,-2.5,,,19,17,Texans,Texans,Texans,CORRECT
+817,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chargers_Seahawks_9,2018,,9,Chargers,Seahawks,-1.5,,,25,17,Chargers,Chargers,Seahawks,INCORRECT
+818,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Rams_Saints_9,2018,,9,Rams,Saints,-1.5,,,35,45,Saints,Saints,Rams,INCORRECT
+819,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Packers_Patriots_9,2018,,9,Packers,Patriots,-5.5,,,17,31,Patriots,Patriots,Patriots,CORRECT
+820,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Titans_Cowboys_9,2018,,9,Titans,Cowboys,-6.5,,,28,14,Titans,Titans,Titans,CORRECT
+821,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Panthers_Steelers_10,2018,,10,Panthers,Steelers,-4.5,,,21,52,Steelers,Steelers,Panthers,INCORRECT
+822,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cardinals_Chiefs_10,2018,,10,Cardinals,Chiefs,-16.5,,,14,26,Chiefs,Cardinals,Chiefs,INCORRECT
+823,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Lions_Bears_10,2018,,10,Lions,Bears,-6.5,,,22,34,Bears,Bears,Bears,CORRECT
+824,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jaguars_Colts_10,2018,,10,Jaguars,Colts,-2.5,,,26,29,Colts,Colts,Jaguars,INCORRECT
+825,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Dolphins_Packers_10,2018,,10,Dolphins,Packers,-9.5,,,12,31,Packers,Packers,Dolphins,INCORRECT
+826,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Saints_Bengals_10,2018,,10,Saints,Bengals,4.5,,,51,14,Saints,Saints,Saints,CORRECT
+827,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Falcons_Browns_10,2018,,10,Falcons,Browns,4.5,,,16,28,Browns,Browns,Falcons,INCORRECT
+828,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Patriots_Titans_10,2018,,10,Patriots,Titans,7.5,,,10,34,Titans,Titans,Titans,CORRECT
+829,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Redskins_Buccaneers_10,2018,,10,Redskins,Buccaneers,-2.5,,,16,3,Redskins,Redskins,Redskins,CORRECT
+830,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bills_Jets_10,2018,,10,Bills,Jets,-7.5,,,41,10,Bills,Bills,Jets,INCORRECT
+831,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chargers_Raiders_10,2018,,10,Chargers,Raiders,9.5,,,20,6,Chargers,Chargers,Raiders,INCORRECT
+832,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Seahawks_Rams_10,2018,,10,Seahawks,Rams,-9.5,,,31,36,Rams,Seahawks,Seahawks,CORRECT
+833,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cowboys_Eagles_10,2018,,10,Cowboys,Eagles,-6.5,,,27,20,Cowboys,Cowboys,Eagles,INCORRECT
+834,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Giants_49ers_10,2018,,10,Giants,49ers,-2.5,,,27,23,Giants,Giants,49ers,INCORRECT
+835,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Packers_Seahawks_11,2018,,11,Packers,Seahawks,-2.5,,,24,27,Seahawks,Seahawks,Packers,INCORRECT
+836,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Panthers_Lions_11,2018,,11,Panthers,Lions,3.5,,,19,20,Lions,Lions,Panthers,INCORRECT
+837,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Buccaneers_Giants_11,2018,,11,Buccaneers,Giants,-0.5,,,35,38,Giants,Giants,Buccaneers,INCORRECT
+838,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bengals_Ravens_11,2018,,11,Bengals,Ravens,-3.5,,,21,24,Ravens,Bengals,Bengals,CORRECT
+839,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cowboys_Falcons_11,2018,,11,Cowboys,Falcons,-3.5,,,22,19,Cowboys,Cowboys,Cowboys,CORRECT
+840,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Vikings_Bears_11,2018,,11,Vikings,Bears,-2.5,,,20,25,Bears,Bears,Vikings,INCORRECT
+841,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Eagles_Saints_11,2018,,11,Eagles,Saints,-8.5,,,7,48,Saints,Saints,Saints,CORRECT
+842,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Titans_Colts_11,2018,,11,Titans,Colts,-2.5,,,10,38,Colts,Colts,Titans,INCORRECT
+843,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Texans_Redskins_11,2018,,11,Texans,Redskins,2.5,,,23,21,Texans,Redskins,Texans,INCORRECT
+844,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Broncos_Chargers_11,2018,,11,Broncos,Chargers,-7.5,,,23,22,Broncos,Broncos,Chargers,INCORRECT
+845,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Raiders_Cardinals_11,2018,,11,Raiders,Cardinals,-3.5,,,23,21,Raiders,Raiders,Cardinals,INCORRECT
+846,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Steelers_Jaguars_11,2018,,11,Steelers,Jaguars,5.5,,,20,16,Steelers,Jaguars,Steelers,INCORRECT
+847,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chiefs_Rams_11,2018,,11,Chiefs,Rams,-2.5,,,51,54,Rams,Rams,Chiefs,INCORRECT
+848,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Redskins_Cowboys_12,2018,,12,Redskins,Cowboys,7.5,,,23,31,Cowboys,Cowboys,Cowboys,CORRECT
+849,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Falcons_Saints_12,2018,,12,Falcons,Saints,13.5,,,17,31,Saints,Saints,Saints,CORRECT
+850,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Browns_Bengals_12,2018,,12,Browns,Bengals,-3.5,,,35,20,Browns,Browns,Browns,CORRECT
+851,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Seahawks_Panthers_12,2018,,12,Seahawks,Panthers,-3.5,,,30,27,Seahawks,Seahawks,Panthers,INCORRECT
+852,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jaguars_Bills_12,2018,,12,Jaguars,Bills,3.5,,,21,24,Bills,Bills,Jaguars,INCORRECT
+853,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Dolphins_Colts_12,2018,,12,Dolphins,Colts,-9.5,,,24,27,Colts,Dolphins,Dolphins,CORRECT
+854,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Giants_Eagles_12,2018,,12,Giants,Eagles,-6.5,,,22,25,Eagles,Giants,Eagles,INCORRECT
+855,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Patriots_Jets_12,2018,,12,Patriots,Jets,9.5,,,27,13,Patriots,Patriots,Patriots,CORRECT
+856,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Raiders_Ravens_12,2018,,12,Raiders,Ravens,-10.5,,,17,34,Ravens,Ravens,Raiders,INCORRECT
+857,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_49ers_Buccaneers_12,2018,,12,49ers,Buccaneers,-3.5,,,9,27,Buccaneers,Buccaneers,Buccaneers,CORRECT
+858,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cardinals_Chargers_12,2018,,12,Cardinals,Chargers,-12.5,,,10,45,Chargers,Chargers,Cardinals,INCORRECT
+859,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Steelers_Broncos_12,2018,,12,Steelers,Broncos,3.5,,,17,24,Broncos,Broncos,Steelers,INCORRECT
+860,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Packers_Vikings_12,2018,,12,Packers,Vikings,-3.5,,,17,24,Vikings,Vikings,Packers,INCORRECT
+861,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Titans_Texans_12,2018,,12,Titans,Texans,-6.5,,,17,34,Texans,Texans,Texans,CORRECT
+862,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Saints_Cowboys_13,2018,,13,Saints,Cowboys,7.5,,,10,13,Cowboys,Cowboys,Saints,INCORRECT
+863,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Rams_Lions_13,2018,,13,Rams,Lions,9.5,,,30,16,Rams,Rams,Rams,CORRECT
+864,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bills_Dolphins_13,2018,,13,Bills,Dolphins,-5.5,,,17,21,Dolphins,Bills,Bills,CORRECT
+865,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chargers_Steelers_13,2018,,13,Chargers,Steelers,-3.5,,,33,30,Chargers,Chargers,Chargers,CORRECT
+866,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Panthers_Buccaneers_13,2018,,13,Panthers,Buccaneers,3.5,,,17,24,Buccaneers,Buccaneers,Panthers,INCORRECT
+867,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bears_Giants_13,2018,,13,Bears,Giants,4.5,,,27,30,Giants,Giants,Bears,INCORRECT
+868,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Colts_Jaguars_13,2018,,13,Colts,Jaguars,3.5,,,0,6,Jaguars,Jaguars,Colts,INCORRECT
+869,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Browns_Texans_13,2018,,13,Browns,Texans,-6.5,,,13,29,Texans,Texans,Browns,INCORRECT
+870,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cardinals_Packers_13,2018,,13,Cardinals,Packers,-14.5,,,20,17,Cardinals,Cardinals,Cardinals,CORRECT
+871,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Broncos_Bengals_13,2018,,13,Broncos,Bengals,3.5,,,24,10,Broncos,Broncos,Broncos,CORRECT
+872,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Ravens_Falcons_13,2018,,13,Ravens,Falcons,1.5,,,26,16,Ravens,Ravens,Ravens,CORRECT
+873,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jets_Titans_13,2018,,13,Jets,Titans,-9.5,,,22,26,Titans,Jets,Jets,CORRECT
+874,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chiefs_Raiders_13,2018,,13,Chiefs,Raiders,14.5,,,40,33,Chiefs,Raiders,Chiefs,INCORRECT
+875,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Vikings_Patriots_13,2018,,13,Vikings,Patriots,-3.5,,,10,24,Patriots,Patriots,Vikings,INCORRECT
+876,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_49ers_Seahawks_13,2018,,13,49ers,Seahawks,-10.5,,,16,43,Seahawks,Seahawks,49ers,INCORRECT
+877,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Redskins_Eagles_13,2018,,13,Redskins,Eagles,-6.5,,,13,28,Eagles,Eagles,Eagles,CORRECT
+878,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jaguars_Titans_14,2018,,14,Jaguars,Titans,-3.5,,,9,30,Titans,Titans,Jaguars,INCORRECT
+879,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Giants_Redskins_14,2018,,14,Giants,Redskins,-0.5,,,40,16,Giants,Giants,Giants,CORRECT
+880,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Patriots_Dolphins_14,2018,,14,Patriots,Dolphins,8.5,,,33,34,Dolphins,Dolphins,Patriots,INCORRECT
+881,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Ravens_Chiefs_14,2018,,14,Ravens,Chiefs,-6.5,,,24,27,Chiefs,Ravens,Chiefs,INCORRECT
+882,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Rams_Bears_14,2018,,14,Rams,Bears,3.5,,,6,15,Bears,Bears,Rams,INCORRECT
+883,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Panthers_Browns_14,2018,,14,Panthers,Browns,1.5,,,20,26,Browns,Browns,Browns,CORRECT
+884,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Colts_Texans_14,2018,,14,Colts,Texans,-4.5,,,24,21,Colts,Colts,Texans,INCORRECT
+885,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Saints_Buccaneers_14,2018,,14,Saints,Buccaneers,8.5,,,28,14,Saints,Saints,Saints,CORRECT
+886,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jets_Bills_14,2018,,14,Jets,Bills,3.5,,,27,23,Jets,Jets,Jets,CORRECT
+887,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Falcons_Packers_14,2018,,14,Falcons,Packers,-5.5,,,20,34,Packers,Packers,Falcons,INCORRECT
+888,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bengals_Chargers_14,2018,,14,Bengals,Chargers,-14.5,,,21,26,Chargers,Bengals,Bengals,CORRECT
+889,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Broncos_49ers_14,2018,,14,Broncos,49ers,5.5,,,14,20,49ers,49ers,Broncos,INCORRECT
+890,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Lions_Cardinals_14,2018,,14,Lions,Cardinals,2.5,,,17,3,Lions,Lions,Lions,CORRECT
+891,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Eagles_Cowboys_14,2018,,14,Eagles,Cowboys,-4.5,,,23,29,Cowboys,Cowboys,Eagles,INCORRECT
+892,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Steelers_Raiders_14,2018,,14,Steelers,Raiders,11.5,,,21,24,Raiders,Raiders,Steelers,INCORRECT
+893,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Vikings_Seahawks_14,2018,,14,Vikings,Seahawks,-3.5,,,7,21,Seahawks,Seahawks,Vikings,INCORRECT
+894,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Browns_Broncos_15,2018,,15,Browns,Broncos,-3.5,,,17,16,Browns,Browns,Browns,CORRECT
+895,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Texans_Jets_15,2018,,15,Texans,Jets,6.5,,,29,22,Texans,Texans,Texans,CORRECT
+896,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Titans_Giants_15,2018,,15,Titans,Giants,-2.5,,,17,0,Titans,Titans,Titans,CORRECT
+897,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Raiders_Bengals_15,2018,,15,Raiders,Bengals,-2.5,,,16,30,Bengals,Bengals,Raiders,INCORRECT
+898,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Buccaneers_Ravens_15,2018,,15,Buccaneers,Ravens,-7.5,,,12,20,Ravens,Ravens,Buccaneers,INCORRECT
+899,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Redskins_Jaguars_15,2018,,15,Redskins,Jaguars,-6.5,,,16,13,Redskins,Redskins,Redskins,CORRECT
+900,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cowboys_Colts_15,2018,,15,Cowboys,Colts,-2.5,,,0,23,Colts,Colts,Cowboys,INCORRECT
+901,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cardinals_Falcons_15,2018,,15,Cardinals,Falcons,-8.5,,,14,40,Falcons,Falcons,Cardinals,INCORRECT
+902,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Lions_Bills_15,2018,,15,Lions,Bills,-2.5,,,13,14,Bills,Lions,Lions,CORRECT
+903,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Dolphins_Vikings_15,2018,,15,Dolphins,Vikings,-6.5,,,17,41,Vikings,Vikings,Dolphins,INCORRECT
+904,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Packers_Bears_15,2018,,15,Packers,Bears,-5.5,,,17,24,Bears,Bears,Packers,INCORRECT
+905,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Seahawks_49ers_15,2018,,15,Seahawks,49ers,5.5,,,23,26,49ers,49ers,Seahawks,INCORRECT
+906,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Patriots_Steelers_15,2018,,15,Patriots,Steelers,1.5,,,10,17,Steelers,Steelers,Patriots,INCORRECT
+907,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Eagles_Rams_15,2018,,15,Eagles,Rams,-9.5,,,30,23,Eagles,Eagles,Rams,INCORRECT
+908,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Saints_Panthers_15,2018,,15,Saints,Panthers,6.5,,,12,9,Saints,Panthers,Saints,INCORRECT
+909,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Vikings_Lions_16,2018,,16,Vikings,Lions,5.5,,,27,9,Vikings,Vikings,Vikings,CORRECT
+910,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jaguars_Dolphins_16,2018,,16,Jaguars,Dolphins,-4.5,,,17,7,Jaguars,Jaguars,Dolphins,INCORRECT
+911,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Texans_Eagles_16,2018,,16,Texans,Eagles,-0.5,,,30,32,Eagles,Eagles,Texans,INCORRECT
+912,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Falcons_Panthers_16,2018,,16,Falcons,Panthers,-3.5,,,24,10,Falcons,Falcons,Falcons,CORRECT
+913,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Packers_Jets_16,2018,,16,Packers,Jets,-0.5,,,44,38,Packers,Packers,Packers,CORRECT
+914,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Giants_Colts_16,2018,,16,Giants,Colts,-9.5,,,27,28,Colts,Giants,Giants,CORRECT
+915,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bills_Patriots_16,2018,,16,Bills,Patriots,-12.5,,,12,24,Patriots,Bills,Bills,CORRECT
+916,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Buccaneers_Cowboys_16,2018,,16,Buccaneers,Cowboys,-7.5,,,20,27,Cowboys,Buccaneers,Cowboys,INCORRECT
+917,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bengals_Browns_16,2018,,16,Bengals,Browns,-6.5,,,18,26,Browns,Browns,Browns,CORRECT
+918,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Redskins_Titans_16,2018,,16,Redskins,Titans,-10.5,,,16,25,Titans,Redskins,Titans,INCORRECT
+919,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Ravens_Chargers_16,2018,,16,Ravens,Chargers,-4.5,,,22,10,Ravens,Ravens,Ravens,CORRECT
+920,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Rams_Cardinals_16,2018,,16,Rams,Cardinals,14.5,,,31,9,Rams,Rams,Rams,CORRECT
+921,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Bears_49ers_16,2018,,16,Bears,49ers,3.5,,,14,9,Bears,Bears,Bears,CORRECT
+922,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Steelers_Saints_16,2018,,16,Steelers,Saints,-6.5,,,28,31,Saints,Steelers,Saints,INCORRECT
+923,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Chiefs_Seahawks_16,2018,,16,Chiefs,Seahawks,2.5,,,31,38,Seahawks,Seahawks,Chiefs,INCORRECT
+924,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Broncos_Raiders_16,2018,,16,Broncos,Raiders,2.5,,,14,27,Raiders,Raiders,Broncos,INCORRECT
+925,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Lions_Packers_17,2018,,17,Lions,Packers,-7.5,,,31,0,Lions,Lions,Lions,CORRECT
+926,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Dolphins_Bills_17,2018,,17,Dolphins,Bills,-3.5,,,17,42,Bills,Bills,Dolphins,INCORRECT
+927,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jets_Patriots_17,2018,,17,Jets,Patriots,-13.5,,,3,38,Patriots,Patriots,Patriots,CORRECT
+928,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Jaguars_Texans_17,2018,,17,Jaguars,Texans,-7.5,,,3,20,Texans,Texans,Jaguars,INCORRECT
+929,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Falcons_Buccaneers_17,2018,,17,Falcons,Buccaneers,-1.5,,,34,32,Falcons,Falcons,Falcons,CORRECT
+930,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Panthers_Saints_17,2018,,17,Panthers,Saints,-10.5,,,33,14,Panthers,Panthers,Saints,INCORRECT
+931,Josh_2018,Josh_2018,josh moerer,{0-0-0-0-0},2018_Cowboys_Giants_17,2018,,17,Cowboys,Giants,-6.5,,,36,35,Cowboys,Cowboys,Cowboys,CORRECT
