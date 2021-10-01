@@ -1,4 +1,4 @@
-,prop_id,year,date,week,team1,team2,spread,team1_pick_pct,team2_pick_pct,points1,points2,winner,spread_winner
+,prop_id,year,date,week,team1,team2,spread,team1_pick_pct,team2_pick_pct,score1,score2,winner,spread_winner
 0,2019_Packers_Bears_1,2019,,1,Packers,Bears,-3.5,0.55,0.45,10,3,Packers,Packers
 1,2019_Falcons_Vikings_1,2019,,1,Falcons,Vikings,-4.5,0.61,0.39,12,28,Vikings,Vikings
 2,2019_Bills_Jets_1,2019,,1,Bills,Jets,-3.5,0.37,0.63,17,16,Bills,Bills
