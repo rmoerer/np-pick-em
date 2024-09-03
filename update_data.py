@@ -1,8 +1,8 @@
 from pick_em.group import Group
 import pandas as pd
 
-current_year = 2022
-group = Group(current_year, "22663954-fbb6-3948-b2e9-d96e7b0eae19")
+current_year = 2024
+group = Group(current_year, "f9ec66ba-415e-4cd9-bae5-6cb97aca226d")
 
 current_week = group.week
 
