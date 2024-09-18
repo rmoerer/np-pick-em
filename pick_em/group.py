@@ -4,9 +4,10 @@ from .entry import Entry
 
 class Group:
     
-    def __init__(self, year, id):
+    def __init__(self, year, challenge_id, group_id):
         self.year = year
-        self.id = id
+        self.challenge_id = challenge_id
+        self.group_id = group_id
         self.entries = []
         self._fetch_pick_em()
         self._fetch_group()
@@ -17,7 +18,7 @@ class Group:
     def _fetch_pick_em(self):
         '''Fetches pick'em info for a given year'''
         # fetch json
-        url = 'https://fantasy.espn.com/apis/v1/challenges/nfl-pigskin-pickem-' + str(self.year)
+        url = f'https://gambit-api.fantasy.espn.com/apis/v1/challenges/{self.challenge_id}'
         headers = {
                 'Accept': 'application/json',
                 'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15',
@@ -30,12 +31,13 @@ class Group:
         
         # get current scoring period
         data = response.json()
+        # self.year = 
         self.week = data['currentScoringPeriod']['id']
     
     def _fetch_group(self):
         '''Fetches data for a specified pick;em group.'''
         # fetch json
-        url = "https://fantasy.espn.com/apis/v1/challenges/nfl-pigskin-pickem-" + str(self.year) + "/groups/" + str(self.id)
+        url = f"https://gambit-api.fantasy.espn.com/apis/v1/challenges/{self.challenge_id}/groups/{self.group_id}"
         headers = {
             'Accept': 'application/json',
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15',
@@ -50,7 +52,6 @@ class Group:
         data = response.json()
         self.data = data # this is here for now to make it easy to explore json data
         self.name = data['groupSettings']['name']
-        self.challenge_id = data['challengeId']
         self.propositions = Propositions(self.challenge_id, self.year)
         self._fetch_entries(data, self.propositions)
     

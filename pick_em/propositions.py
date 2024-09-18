@@ -14,7 +14,7 @@ class Propositions:
         that is easily converted to a dataframe'''
 
         # fetch proposition json
-        url = "https://fantasy.espn.com/apis/v1/propositions?challengeId=" + str(self.challenge_id)
+        url = f"https://gambit-api.fantasy.espn.com/apis/v1/propositions?challengeId={self.challenge_id}"
         headers = {
             'Accept': 'application/json',
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15',
