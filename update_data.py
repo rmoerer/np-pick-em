@@ -4,7 +4,7 @@ import pandas as pd
 current_year = 2025
 group = Group(
     year=current_year,
-    challenge_id=247, # have to figure this out by looking at the pick em json data
+    challenge_id=265, # have to figure this out by looking at the pick em json data
     group_id="f9ec66ba-415e-4cd9-bae5-6cb97aca226d"
 )
 
