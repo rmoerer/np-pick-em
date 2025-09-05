@@ -1,7 +1,7 @@
 from pick_em.group import Group
 import pandas as pd
 
-current_year = 2024
+current_year = 2025
 group = Group(
     year=current_year,
     challenge_id=247, # have to figure this out by looking at the pick em json data
